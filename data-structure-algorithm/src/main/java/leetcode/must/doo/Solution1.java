@@ -1,10 +1,11 @@
-package must.doo;
+package leetcode.must.doo;
 
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+//https://leetcode.com/problems/two-sum/discuss/3/Accepted-Java-O(n)-Solution
 public class Solution1 {
 
     public static void main(String[] args) {

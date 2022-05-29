@@ -1,6 +1,5 @@
-package leetcode;
+package leetcode.must.doo;
 
-import must.doo.Solution1;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -16,8 +15,8 @@ class Solution1Test {
 
     @Test
     void test2() {
-         Assertions.assertArrayEquals(new int[]{1, 2}, unitUnderTest.twoSum_solution_2(new int[]{3, 2, 4}, 6));
-     }
+        Assertions.assertArrayEquals(new int[]{1, 2}, unitUnderTest.twoSum_solution_2(new int[]{3, 2, 4}, 6));
+    }
 
     @Test
     void test3() {
