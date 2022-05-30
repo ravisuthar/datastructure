@@ -9,9 +9,29 @@ import java.util.Map;
 public class Solution1 {
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(new Solution1().twoSum_solution_2(new int[]{3, 2, 4}, 6)));
+        System.out.println(Arrays.toString(new Solution1().twoSum(new int[]{3, 2, 4}, 6)));
     }
 
+
+    public int[] twoSum(int[] nums, int target) {
+
+        int[] result = new int[2];
+
+        Map<Integer, Integer> valueToIndexMap = new HashMap<>();
+        for(int i=0; i<nums.length; i++){
+            if(valueToIndexMap.containsKey(target - nums[i])){
+                result[0] = valueToIndexMap.get(target - nums[i]);
+                result[1] = i;
+                return result;
+            }else{
+                valueToIndexMap.put(nums[i], i);
+            }
+
+        }
+
+
+        return result;
+    }
 
     /**
      * Brute force
