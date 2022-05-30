@@ -56,4 +56,7 @@ public class Solution3 {
 
         return max;
     }
+
+    public static class Solution6 {
+    }
 }
