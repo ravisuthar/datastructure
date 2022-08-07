@@ -5,10 +5,10 @@ import java.util.Arrays;
 import java.util.List;
 
 //https://leetcode.com/problems/3sum
-public class Solution6 {
+public class LeetCode0015 {
 
     public static void main(String[] args) {
-        System.out.println(new Solution6().threeSum(new int[]{-1,0,1,2,-1,-4}));
+        System.out.println(new LeetCode0015().threeSum(new int[]{-1,0,1,2,-1,-4}));
     }
 
 

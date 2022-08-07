@@ -1,11 +1,11 @@
 package leetcode.must.doo;
 
 //https://leetcode.com/problems/kth-missing-positive-number/discuss/876751/Java-1-liner-O(n)-simplest-easy-to-understand-beats-100
-public class Solution420 {
+public class LeetCode1539 {
     public static void main(String[] args) {
 
-        System.out.println(new Solution420().findKthPositive(new int[]{2,3,4,7,11}, 5));
-        System.out.println(new Solution420().findKthPositive(new int[]{1,2,3,4}, 2));
+        System.out.println(new LeetCode1539().findKthPositive(new int[]{2,3,4,7,11}, 5));
+        System.out.println(new LeetCode1539().findKthPositive(new int[]{1,2,3,4}, 2));
     }
 
     public int findKthPositive(int[] arr, int k) {

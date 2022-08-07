@@ -3,9 +3,9 @@ package leetcode.must.doo;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-class Solution2Test {
+class LeetCode0003Test {
 
-    private Solution2 unitUnderTest = new Solution2();
+    private LeetCode0003 unitUnderTest = new LeetCode0003();
 
     @Test
     void test1() {

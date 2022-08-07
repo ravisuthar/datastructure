@@ -2,7 +2,7 @@ package leetcode.must.doo;
 
 //https://leetcode.com/problems/add-two-numbers
 //https://www.youtube.com/watch?v=qE9KOe3Fu7Q&ab_channel=DineshVaryani
-public class Solution5 {
+public class LeetCode0002 {
 
     public static void main(String[] args) {
         ListNode node = new ListNode();

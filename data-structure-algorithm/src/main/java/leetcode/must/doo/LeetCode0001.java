@@ -6,10 +6,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 //https://leetcode.com/problems/two-sum/discuss/3/Accepted-Java-O(n)-Solution
-public class LeetCode1TwoSum {
+public class LeetCode0001 {
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(new LeetCode1TwoSum().twoSum(new int[]{3, 2, 4}, 6)));
+        System.out.println(Arrays.toString(new LeetCode0001().twoSum(new int[]{3, 2, 4}, 6)));
     }
 
 

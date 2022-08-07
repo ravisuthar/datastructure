@@ -1,10 +1,10 @@
 package leetcode.must.doo;
 
 //https://leetcode.com/problems/maximum-subarray/
-public class Solution3 {
+public class LeetCode0053 {
 
     public static void main(String[] args) {
-        System.out.println(new Solution3().bruteForce(new int[]{-2, 1, -3, 4, -1, 2, 1, -5, 4}));
+        System.out.println(new LeetCode0053().bruteForce(new int[]{-2, 1, -3, 4, -1, 2, 1, -5, 4}));
     }
 
     public int kadanesAlgorith(int[] nums) {

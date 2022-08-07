@@ -1,4 +1,4 @@
-package leetcode.must.doo;
+package oops;
 
 import java.util.Arrays;
 

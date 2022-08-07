@@ -7,7 +7,7 @@ import java.util.Map;
 //https://www.allprogrammingtutorials.com/tutorials/implementing-lru-cache-using-linkedhashmap-in-java.php
 //https://www.baeldung.com/java-lru-cache
 //https://leetcode.com/problems/lru-cache/
-public class Solution13 {
+public class LeetCode0146 {
     public static void main(String[] args) {
         LRUCache<String, String> cache = new LRUCache<>(3);
         cache.put("1","1");

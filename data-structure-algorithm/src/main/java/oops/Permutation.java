@@ -1,4 +1,4 @@
-package leetcode.must.doo;
+package oops;
 
 public class Permutation {
     public static void main(String[] args) {

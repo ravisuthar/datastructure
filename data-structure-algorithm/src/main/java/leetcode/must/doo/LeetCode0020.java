@@ -4,10 +4,10 @@ import java.util.List;
 import java.util.Stack;
 
 //https://leetcode.com/problems/valid-parentheses/
-public class Solution18 {
+public class LeetCode0020 {
 
     public static void main(String[] args) {
-        System.out.println(new Solution18().isValid("((())){}{}{}[][][{()}]"));
+        System.out.println(new LeetCode0020().isValid("((())){}{}{}[][][{()}]"));
     }
 
     public boolean isValid(String s) {

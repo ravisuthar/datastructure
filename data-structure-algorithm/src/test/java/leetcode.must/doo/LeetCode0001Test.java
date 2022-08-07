@@ -3,9 +3,9 @@ package leetcode.must.doo;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-class LeetCode1TwoSumTest {
+class LeetCode0001Test {
 
-    private LeetCode1TwoSum unitUnderTest = new LeetCode1TwoSum();
+    private LeetCode0001 unitUnderTest = new LeetCode0001();
 
     @Test
     void test1() {

@@ -3,9 +3,9 @@ package leetcode.must.doo;
 import collections.StackGenerics;
 
 //https://leetcode.com/problems/decode-string/
-public class Solution63 {
+public class LeetCode0394 {
     public static void main(String[] args) {
-        System.out.println(new Solution63().decodeString("3[a]2[bc]"));
+        System.out.println(new LeetCode0394().decodeString("3[a]2[bc]"));
     }
 
     public String decodeString(String s) {

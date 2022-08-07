@@ -3,10 +3,10 @@ package leetcode.must.doo;
 import java.util.*;
 
 //https://leetcode.com/problems/longest-substring-without-repeating-characters/
-public class Solution2 {
+public class LeetCode0003 {
 
     public static void main(String[] args) {
-        System.out.println(new Solution2().dineshVaryani("pwwkew"));
+        System.out.println(new LeetCode0003().dineshVaryani("pwwkew"));
     }
 
     //https://www.youtube.com/watch?v=zKrEIlwbF5A&t=16s&ab_channel=DineshVaryani

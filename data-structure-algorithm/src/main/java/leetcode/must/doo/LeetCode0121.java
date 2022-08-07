@@ -1,9 +1,9 @@
 package leetcode.must.doo;
 
-public class Leetcode121 {
+public class LeetCode0121 {
     public static void main(String[] args) {
-        System.out.println(new Leetcode121().maxProfit(new int[]{7, 1, 5, 3, 6, 4}));
-        System.out.println(new Leetcode121().maxProfit(new int[]{7, 6, 4, 3, 1}));
+        System.out.println(new LeetCode0121().maxProfit(new int[]{7, 1, 5, 3, 6, 4}));
+        System.out.println(new LeetCode0121().maxProfit(new int[]{7, 6, 4, 3, 1}));
     }
 
 

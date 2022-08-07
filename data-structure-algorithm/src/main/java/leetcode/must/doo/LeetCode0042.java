@@ -3,11 +3,11 @@ package leetcode.must.doo;
 //https://leetcode.com/problems/trapping-rain-water
 //https://www.techiedelight.com/trapping-rain-water-within-given-set-bars
 //https://leetcode.com/problems/trapping-rain-water/discuss/153992/Java-O(n)-time-and-O(1)-space-(with-explanations)
-public class Solution4 {
+public class LeetCode0042 {
 
     public static void main(String[] args) {
-        System.out.println(new Solution4().trapLeetCodeDiscussion(new int[]{0,1,0,2,1,0,1,3,2,1,2,1}));//6
-        System.out.println(new Solution4().trapLeetCodeDiscussion(new int[]{4,2,0,3,2,5}));//9
+        System.out.println(new LeetCode0042().trapLeetCodeDiscussion(new int[]{0,1,0,2,1,0,1,3,2,1,2,1}));//6
+        System.out.println(new LeetCode0042().trapLeetCodeDiscussion(new int[]{4,2,0,3,2,5}));//9
     }
 
 
