@@ -1,0 +1,483 @@
+
+Algorithm
+------------------
+1  Data Structures and Algorithms in Java | Free course | Animations and Implementations
+2  Introduction to Data Structures | Data Structures and Algorithms in Java
+3  Introduction to Algorithms | Data Structures and Algorithms in Java
+4  Introduction to Algorithm Analysis
+5  Time Complexity of an Algorithm
+6  Space Complexity of an Algorithm
+7  Asymptotic Analysis of an Algorithm
+8  Asymptotic Notations | Omega, Theta and Big O Notations
+9  Types of Asymptotic Notations
+10 Analysis and Rules to calculate Big O notation
+11 Calculating Time complexity of Constant Algorithm (Big O)
+12 Calculating Time complexity of a Linear Algorithm (Big O)
+13 Calculating Time complexity of a Polynomial Algorithm (Big O)
+
+LinkedList - Singly
+------------------
+14 Represent a Singly Linked List in Java
+15 How to Implement a Singly Linked List in Java | Data Structures and Algorithms
+16 Create a Singly Linked List in Java (Animation)
+17 Create a Singly Linked List in Java (Implementation)
+18 Print elements of a Singly Linked List in Java (Animation)
+19 Print elements of a Singly Linked List in Java (Implementation)
+20 Find length of a Singly Linked List in Java (Animation)
+21 Find length of a Singly Linked List in Java (Implementation)
+22 Insert node at the beginning of a Singly Linked List in Java (Animation)
+23 Insert node at the beginning of a Singly Linked List in Java (Implementation)
+24 Insert node at the end of a Singly Linked List in Java (Animation)
+25 Insert node at the end of a Singly Linked List in Java (Implementation)
+26 Insert a node in a Singly Linked List at a given position (Animation)
+27 Insert a node in a Singly Linked List at a given position (Implementation)
+28 Delete first node of a Singly Linked List in Java (Animation)
+29 Delete first node of a Singly Linked List in Java (Implementation)
+30 Delete last node of a Singly Linked List in Java (Animation)
+31 Delete last node of a Singly Linked List in Java (Implementation)
+32 Delete a node from a Singly Linked List at a given position (Animation)
+33 Delete a node from a Singly Linked List at a given position (Implementation)
+34 How to search an element in a Singly Linked List in Java ?
+35 Reverse a Singly Linked List in Java | Leetcode #206 | Data Structures & Algorithms
+36 How to find middle node in a Singly Linked List in Java? | Data Structures and Algorithms
+37 How to find nth node from the end of a Singly Linked List in Java?
+38 How to remove duplicate from sorted Singy Linked List in Java?
+39 How to insert a node in a sorted Singly Linked List in Java ?
+40 How to remove a given key from Singly Linked List in Java?
+41 How to detect a loop in a Singly Linked List in Java? (Animation)
+42 Detect a loop in a Singly Linked List in Java | Implementation
+43 How to find start of a loop in a Singly Linked List? (Animation)
+44 How to find start of a loop in a Singly Linked List? (Implementation)
+45 Why Floyd's Cycle Detection algorithm works?
+46 How to remove loop from a Singly Linked List? | Floyd Cycle Detection Algorithm | (Animation)
+47 How to remove loop from a Singly Linked List? | Floyd Cycle Detection Algorithm | (Implementation)
+48 Merge Two Sorted Lists | Animation | Leetcode #21 | Coding Interview Question
+49 Merge Two Sorted Lists | Implementation | Leetcode #21 | Coding Interview Question
+50 Add Two Numbers (Singly Linked Lists) | Animation | Leetcode #2 | Coding Interview Question
+
+
+Linked List Leetcode
+Leetcode 206. Reverse Linked List https://leetcode.com/problems/reverse-linked-list/
+Leetcode 21. Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
+Leetcode 143. Reorder List https://leetcode.com/problems/reorder-list/
+Leetcode 19. Remove Nth Node From End of List https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+Leetcode 138. Copy List with Random Pointer https://leetcode.com/problems/copy-list-with-random-pointer/
+Leetcode 2. Add Two Numbers https://leetcode.com/problems/add-two-numbers/
+Leetcode 141. Linked List Cycle https://leetcode.com/problems/linked-list-cycle/
+Leetcode 287. Find the Duplicate Number https://leetcode.com/problems/find-the-duplicate-number/
+Leetcode 146. LRU Cache https://leetcode.com/problems/lru-cache/
+Leetcode 23. Merge k Sorted Lists https://leetcode.com/problems/merge-k-sorted-lists/
+Leetcode 25. Reverse Nodes in k-Group https://leetcode.com/problems/reverse-nodes-in-k-group/
+
+
+LinkedList - Doubly
+------------------
+51 How to represent a Doubly Linked List in Java ?
+52 How to implement Doubly Linked List in Java ? | Data Structures and Algorithms
+53 How to print elements of a Doubly Linked List in Java ?
+54 How to insert node at the beginning of a Doubly Linked List in Java ?
+55 Insert node at the end of a Doubly Linked List in Java
+56 How to delete first node in a Doubly Linked List in Java ?
+57 How to delete last node in a Doubly Linked List in Java ?
+
+LinkedList - Circular
+------------------
+58 How to represent a Circular Singly Linked List in Java ?
+59 How to implement a Circular Singly Linked List in Java ?
+60 How to traverse and print a Circular Singly Linked List in Java ?
+61 How to insert node at the start of a Circular Singly Linked List in Java ?
+62 How to insert node at the end of a Circular Singly Linked List in Java ?
+63 How to remove first node from a Circular Singly Linked List in Java ?
+
+Array
+------------------
+64 Introduction to One-Dimensional Array
+65 Declaration and Initialization of a One-Dimensional Array
+66 Adding or Updating elements in a One-Dimensional Array | Animation
+67 Adding or Updating elements in a One-Dimensional Array | Implementation
+68 How to print elements of an Array in Java? | Animation
+69 How to print elements of an Array in Java? | Implementation
+70 Remove Even Integers from an Array | Animation | Coding Interview Question
+71 Remove Even Integers from an Array | Implementation | Coding Interview Question
+72 How to Reverse an Array in Java - Animation
+73 How to reverse an array in Java ? | Implementation
+74 How to find Minimum value in an Array ? | Animation
+75 How to find Minimum value in an Array ? | Implementation
+76 Find Second Maximum value in an Array | Animation
+77 How to move Zeroes to end of an Array? | Animation
+78 How to move Zeroes to end of an Array? | Implementation
+79 How to resize an Array in Java ? | Animation
+80 How to resize an Array in Java ? | Implementation
+81 Find the Missing Number in an Array | Animation | Coding Interview Question
+82 Find the Missing Number in an Array | Implementation | Coding Interview Question
+83 How to check if a given String is a Palindrome ? | String Algorithms | Animation
+84 How to check if a given String is a Palindrome | String Algorithms | Implementation
+
+Array & Hashing Leetcode
+Leetcode 217. Contains Duplicate https://leetcode.com/problems/contains-duplicate/
+Leetcode 242. Valid Anagram https://leetcode.com/problems/valid-anagram/
+Leetcode 1. Two Sum https://leetcode.com/problems/two-sum/
+Leetcode 49. Group Anagrams https://leetcode.com/problems/group-anagrams/
+Leetcode 347. Top K Frequent Elements https://leetcode.com/problems/top-k-frequent-elements/
+Leetcode 238. Product of Array Except Self https://leetcode.com/problems/product-of-array-except-self/
+Leetcode 36. Valid Sudoku https://leetcode.com/problems/valid-sudoku/
+Leetcode https://leetcode.com/problems/encode-and-decode-strings/
+Leetcode 128. Longest Consecutive Sequence https://leetcode.com/problems/longest-consecutive-sequence/
+
+Two Pointer Leetcode
+Leetcode 125. Valid Palindrome https://leetcode.com/problems/valid-palindrome/
+Leetcode 167. Two Sum II - Input Array Is Sorted https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+Leetcode 15. 3Sumhttps://leetcode.com/problems/3sum/
+Leetcode 11. Container With Most Water https://leetcode.com/problems/container-with-most-water/
+Leetcode 42. Trapping Rain Water https://leetcode.com/problems/trapping-rain-water/
+
+Sliding Window Leetcode
+Leetcode 121. Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+Leetcode 3. Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Leetcode 424. Longest Repeating Character Replacement https://leetcode.com/problems/longest-repeating-character-replacement/
+Leetcode 567. Permutation in String https://leetcode.com/problems/permutation-in-string/
+Leetcode 76. Minimum Window Substring https://leetcode.com/problems/minimum-window-substring/
+Leetcode 239. Sliding Window Maximum https://leetcode.com/problems/sliding-window-maximum/
+
+
+Stack
+------------------
+85 How to represent a Stack in Java ?
+86 How to implement a Stack in Java ? | Stack in Data Structure
+87 How to reverse a String using a Stack in Java ? | Animation
+88 Implementation - How to reverse a String using a Stack in Java ?
+89 Next Greater Element | Animation | Coding Interview
+90 Valid Parentheses problem (Balanced Brackets) | Animation | Coding Interview Question
+
+Stack Leetcode
+Leetcode 20. Valid Parentheses https://leetcode.com/problems/valid-parentheses/
+Leetcode 155. Min Stack https://leetcode.com/problems/min-stack/
+Leetcode 150. Evaluate Reverse Polish Notation https://leetcode.com/problems/evaluate-reverse-polish-notation/
+Leetcode 22. Generate Parentheses https://leetcode.com/problems/generate-parentheses/
+Leetcode 739. Daily Temperatures https://leetcode.com/problems/daily-temperatures/
+Leetcode 853. Car Fleet https://leetcode.com/problems/car-fleet/
+Leetcode 84. Largest Rectangle in Histogram https://leetcode.com/problems/largest-rectangle-in-histogram/
+
+
+Queue
+------------------
+91 How to represent a Queue in Java ?
+92 How to implement a Queue in Java ? | Part 1
+93 Part 2 - How to implement a Queue in Java - Enqueue Operation
+94 Part 3 - How to implement a Queue in Java - Dequeue Operation
+
+Binary Tree
+------------------
+95 Generate Binary numbers from 1 to n using a Queue | Animation
+96 How to represent a Binary Tree in Java ?
+97 How to Implement a Binary Tree in Java | Binary Tree Data Structure
+98 Recursive PreOrder traversal of a Binary Tree in Java
+99 Iterative Preorder traversal of a Binary Tree in Java
+100 Recursive Inorder traversal of Binary Tree in Java
+101 Iterative Inorder traversal of a Binary Tree in Java
+102 Recursive Postorder traversal of a Binary Tree in Java
+103 Iterative Postorder Traversal of a Binary Tree | Animation
+104 Iterative Postorder Traversal of a Binary Tree | Implementation
+105 Level order traversal of a Binary Tree in Java
+106 How to find Maximum value in a Binary Tree? (Recursive) | Animation
+107 How to find Maximum value in a Binary Tree? (Recursive) | Implementation
+108 How to represent Binary Search Tree in Java? | Animation
+109 How to represent Binary Search Tree in Java? | Implementation
+110 How to insert a value in a Binary Search Tree in Java (Recursive) | Animation
+111 How to insert a value in a Binary Search Tree (Recursive) | Implementation
+112 How to search a given key in a Binary Search Tree (Recursive) | Animation
+113 How to search a given key in a Binary Search Tree (Recursive) | Implementation
+114 Validate Binary Search Tree | Animation | Leetcode #98 | Coding Interview question
+115 Search in a row and column wise sorted matrix | Animation
+116 Search in a row and column wise sorted matrix | Implementation
+117 Print a given matrix in Spiral form | Animation | Coding Interview Question
+118 Introduction to Priority Queue and Binary Heap in Java
+119 How to represent a Binary Heap in Java? | Animation
+
+
+Binary Tree Leetcode
+Leetcode 226. Invert Binary Tree https://leetcode.com/problems/invert-binary-tree/
+Leetcode 104. Maximum Depth of Binary Tree https://leetcode.com/problems/maximum-depth-of-binary-tree/
+Leetcode 543. Diameter of Binary Tree https://leetcode.com/problems/diameter-of-binary-tree/
+Leetcode 110. Balanced Binary Tree https://leetcode.com/problems/balanced-binary-tree/
+Leetcode 100. Same Tree https://leetcode.com/problems/same-tree/
+Leetcode 572. Subtree of Another Tree https://leetcode.com/problems/subtree-of-another-tree/
+Leetcode 235. Lowest Common Ancestor of a Binary Search Tree https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+Leetcode 102. Binary Tree Level Order Traversal https://leetcode.com/problems/binary-tree-level-order-traversal/
+Leetcode 199. Binary Tree Right Side View https://leetcode.com/problems/binary-tree-right-side-view/
+Leetcode 1448. Count Good Nodes in Binary Tree https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+Leetcode 98. Validate Binary Search Tree https://leetcode.com/problems/validate-binary-search-tree/
+Leetcode 230. Kth Smallest Element in a BST https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+Leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+Leetcode 124. Binary Tree Maximum Path Sum https://leetcode.com/problems/binary-tree-maximum-path-sum/
+Leetcode 297. Serialize and Deserialize Binary Tree https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+
+Max Heap
+------------------
+120 How to implement Max Heap in Java? | Animation
+121 Initial Implementation - How to implement Max Heap in Java?
+122 Bottom - Up Reheapify (Swim) in Max Heap | Animation | Priority Queue
+123 How to insert in a Max Heap in Java ? | Animation
+124 How to insert in a Max Heap in Java ? | Implementation
+125 Top - Down Reheapify (Sink) in Max Heap | Animation | Priority Queue
+126 How to delete max element in a Max Heap in Java ? | Animation
+
+Heap/PriorityQueue Leetcode
+Leetcode 703. Kth Largest Element in a Stream https://leetcode.com/problems/kth-largest-element-in-a-stream/
+Leetcode 1046. Last Stone Weight https://leetcode.com/problems/last-stone-weight/
+Leetcode 973. K Closest Points to Origin https://leetcode.com/problems/k-closest-points-to-origin/
+Leetcode 215. Kth Largest Element in an Array https://leetcode.com/problems/kth-largest-element-in-an-array/
+Leetcode 355. Design Twitter https://leetcode.com/problems/design-twitter/
+Leetcode 295. Find Median from Data Stream https://leetcode.com/problems/find-median-from-data-stream/
+
+
+Searching Algorithm
+------------------
+127 Linear Search in Java | Searching Algorithm | Animation
+128 Linear Search in Java | Searching Algorithm | Implementation
+129 Binary Search in Java
+130 Search Insert Position in a Sorted Array | Animation | Leetcode #35 | Coding Interview Question
+131 Bubble Sort in Java - Part 1 | Animation
+132 Bubble Sort in Java - Part 2 | Animation
+133 Bubble Sort in Java | Implementation
+134 Insertion Sort in Java - Part 1 | Animation | Sorting Algorithms
+135 Insertion Sort algorithm in Java (Part 2) | Animation | Sorting Algorithm
+136 Insertion Sort in Java | Sorting Algorithm | Implementation
+137 Selection Sort Algorithm in Java (Part 1) | Animation | Data Structure and Algorithm
+138 Selection Sort Algorithm in Java (Part 2) | Animation | Data Structures and Algorithm
+139 Selection Sort Algorithm in Java (Part 3) | Implementation | Data Structures and Algorithms
+140 How to merge two sorted arrays in Java? | Animation | Part 1
+141 How to merge two sorted arrays in Java? | Animation | Part 2
+142 How to merge two sorted arrays in Java? | Implementation
+143 Merge Sort in Java - Part 1 | Animation | Conceptual Overview | Sorting Algorithms
+144 Merge Sort in Java - Part 2 | Merge Method Animation | Conceptual Overview | Sorting Algorithms
+145 Merge Sort in Java - Part 3 | Animation | Sorting Algorithms
+146 Merge Sort in Java - Part 4 | Implementation | Sorting Algorithms
+147 Sort an array of 0’s, 1’s, and 2’s (Dutch National Flag Problem) Part 1 | Animation
+148 Sort an array of 0’s, 1’s, and 2’s (Dutch National Flag Problem) Part 2 | Animation
+149 Quick Sort Algorithm in Java - Part 1 | Animation | Conceptual Overview | Sorting Algorithms
+150 Quick Sort Algorithm in Java - Part 2 | Partition Method Animation | Sorting Algorithms
+151 Quick Sort Algorithm in Java - Part 3 | Recursion Animation | Sorting Algorithms
+152 Quick Sort Algorithm in Java - Part 4 | Animation | Conceptual Overview | Sorting Algorithms
+153 Squares of a Sorted Array | Animation | Coding Interview Question
+154 Squares of a Sorted Array | Implementation | Coding Interview Question
+155 Rearrange Sorted Array in Max/Min form | Animation | Coding interview question
+
+Binary Search Leetcode
+Leetcode 704. Binary Search https://leetcode.com/problems/binary-search/
+Leetcode 74. Search a 2D Matrix https://leetcode.com/problems/search-a-2d-matrix/
+Leetcode 875. Koko Eating Bananas https://leetcode.com/problems/koko-eating-bananas/
+Leetcode 33. Search in Rotated Sorted Array https://leetcode.com/problems/search-in-rotated-sorted-array/
+Leetcode 153. Find Minimum in Rotated Sorted Array https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+Leetcode 981. Time Based Key-Value Store https://leetcode.com/problems/time-based-key-value-store/
+Leetcode 4. Median of Two Sorted Arrays https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+
+Graph
+------------------
+156 Introduction to Graphs | Graph Data Structure and Algorithms
+157 Adjacency Matrix Representation of Graph in Java
+158 Adjacency Matrix Representation of an Undirected Graph in Java | Animation
+159 Adjacency Matrix Representation of an Undirected Graph in Java | Implementation
+160 Adjacency List Representation of Graph in Java
+161 Adjacency List Representation of an Undirected Graph in Java | Animation
+162 Adjacency List Representation of an Undirected Graph in Java | Implementation
+163 Breadth First Search (BFS) traversal of an Undirected Graph | Animation
+164 Breadth First Search (BFS) traversal of an Undirected Graph | Implementation
+165 Iterative Depth First Search (DFS) traversal of an Undirected Graph | Animation
+166 Iterative Depth First Search (DFS) traversal of an Undirected Graph | Implementation
+167 Recursive Depth First Search (DFS) traversal of an Undirected Graph | Animation
+168 Connected Components in an Undirected Graph | Graph Data Structure | Animation
+169 Number of Islands | Leetcode #200 | Animation | Amazon Interview Question
+
+Graph Leetcode
+Leetcode 200. Number of Islands https://leetcode.com/problems/number-of-islands/
+Leetcode 133. Clone Graph https://leetcode.com/problems/clone-graph/
+Leetcode 695. Max Area of Island https://leetcode.com/problems/max-area-of-island/
+Leetcode 417. Pacific Atlantic Water Flow https://leetcode.com/problems/pacific-atlantic-water-flow/
+Leetcode 130. Surrounded Regions https://leetcode.com/problems/surrounded-regions/
+Leetcode 994. Rotting Oranges https://leetcode.com/problems/rotting-oranges/
+Leetcode https://leetcode.com/problems/walls-and-gates/
+Leetcode 207. Course Schedule https://leetcode.com/problems/course-schedule/
+Leetcode 210. Course Schedule II https://leetcode.com/problems/course-schedule-ii/
+Leetcode 684. Redundant Connection https://leetcode.com/problems/redundant-connection/
+Leetcode https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+Leetcode https://leetcode.com/problems/graph-valid-tree/
+Leetcode 127. Word Ladder https://leetcode.com/problems/word-ladder/
+
+
+Advance Graph Leetcode
+Leetcode 332. Reconstruct Itinerary https://leetcode.com/problems/reconstruct-itinerary/
+Leetcode 1584. Min Cost to Connect All Points https://leetcode.com/problems/min-cost-to-connect-all-points/
+Leetcode 743. Network Delay Time https://leetcode.com/problems/network-delay-time/
+Leetcode 778. Swim in Rising Water https://leetcode.com/problems/swim-in-rising-water/
+Leetcode https://leetcode.com/problems/alien-dictionary/
+Leetcode 787. Cheapest Flights Within K Stops https://leetcode.com/problems/cheapest-flights-within-k-stops/
+
+Trie
+------------------
+170 Introduction to Trie Data Structures
+171 How to represent a TrieNode in Java?
+172 How to implement Trie in Java? | Animation
+173 How to implement Trie in Java ? | Implementation
+174 How to insert a word in Trie - Part 1 | Animation
+175 How to insert a word in Trie - Part 2 | Animation
+176 Implementation - How to insert a word in Trie ?
+
+Trie Leetcode
+Leetcode 208. Implement Trie (Prefix Tree) https://leetcode.com/problems/implement-trie-prefix-tree/
+Leetcode 211. Design Add and Search Words Data Structure https://leetcode.com/problems/design-add-and-search-words-data-structure/
+Leetcode 212. Word Search II https://leetcode.com/problems/word-search-ii/
+
+
+Dynamic Programming
+------------------
+177 Introduction to Dynamic Programming
+178 Recursion and Dynamic Programming - Part 1
+179 Recursion and Dynamic Programming - Part 2
+180 Optimal Substructure property in Dynamic Programming
+181 Overlapping Subproblems property in Dynamic Programming
+182 Bottom Up Approach - Fibonacci Number in Dynamic Programming | Animation
+183 Bottom Up Approach - Fibonacci Number in Dynamic Programming | Implementation
+184 Top Down Approach - Fibonacci Number in Dynamic Programming | Animation
+185 Top Down Approach - Fibonacci Number in Dynamic Programming | Implementation
+186 Kadane's Algorithm for Maximum Sum Subarray - 1 | Dynamic Programming | Conceptual Overview
+187 Kadane's Algorithm for Maximum Sum Subarray - 2 | Dynamic Programming | Animation
+188 Kadane's Algorithm for Maximum Sum Subarray - 3 | Dynamic Programming | Implementation
+
+
+1-D Dynamic Programming  Leetcode
+Leetcode 70. Climbing Stairs https://leetcode.com/problems/climbing-stairs/
+Leetcode 746. Min Cost Climbing Stairs https://leetcode.com/problems/min-cost-climbing-stairs/
+Leetcode 198. House Robber https://leetcode.com/problems/house-robber/
+Leetcode 213. House Robber II https://leetcode.com/problems/house-robber-ii/
+Leetcode 5. Longest Palindromic Substring https://leetcode.com/problems/longest-palindromic-substring/
+Leetcode 647. Palindromic Substrings https://leetcode.com/problems/palindromic-substrings/
+Leetcode 91. Decode Ways https://leetcode.com/problems/decode-ways/
+Leetcode 322. Coin Change https://leetcode.com/problems/coin-change/
+Leetcode 152. Maximum Product Subarray https://leetcode.com/problems/maximum-product-subarray/
+Leetcode 139. Word Break https://leetcode.com/problems/word-break/
+Leetcode 300. Longest Increasing Subsequence https://leetcode.com/problems/longest-increasing-subsequence/
+Leetcode 416. Partition Equal Subset Sum https://leetcode.com/problems/partition-equal-subset-sum/
+
+2-D Dynamic Programming  Leetcode
+Leetcode 62. Unique Paths https://leetcode.com/problems/unique-paths/
+Leetcode 1143. Longest Common Subsequence https://leetcode.com/problems/longest-common-subsequence/
+Leetcode 309. Best Time to Buy and Sell Stock with Cooldown https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+Leetcode 518. Coin Change 2 https://leetcode.com/problems/coin-change-2/
+Leetcode 494. Target Sum https://leetcode.com/problems/target-sum/
+Leetcode 97. Interleaving String https://leetcode.com/problems/interleaving-string/
+Leetcode 329. Longest Increasing Path in a Matrix https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+Leetcode 115. Distinct Subsequences https://leetcode.com/problems/distinct-subsequences/
+Leetcode 72. Edit Distance https://leetcode.com/problems/edit-distance/
+Leetcode 312. Burst Balloons https://leetcode.com/problems/burst-balloons/
+Leetcode 10. Regular Expression Matching https://leetcode.com/problems/regular-expression-matching/
+
+
+Hashing
+------------------
+189 Introduction to Hashing | Data Structures and Algorithms
+190 What are Hash Functions? | Hashing Data Structure
+191 Introduction to Hash Table | Hashing Data Structure
+192 Separate Chaining | Collision Resolution Technique | Hashing Data Structure
+193 Represent a HashNode in a HashTable | Separate Chaining Collision Resolution Strategy
+194 Implement a HashTable | Separate Chaining Collision Resolution Technique | Part 1 | Animation
+195 Implement a HashTable | Separate Chaining Collision Resolution Technique | Part 2 | Implementation
+196 How to Put a Key-Value pair in a HashTable? | Part 1 | Separate Chaining Collision Resolution
+197 How to Put a Key-Value pair in a HashTable? | Part 2 | Separate Chaining Collision Resolution
+198 How to Put a Key-Value pair in a HashTable? | Part 3 | Separate Chaining Collision Resolution
+199 How to get a value by key in a HashTable? | Part 1 | Separate Chaining Collision Resolution
+200 How to get a value by key in a HashTable? | Part 2 | Separate Chaining Collision Resolution
+201 How to get a value by key in a HashTable? | Part 3 | Separate Chaining Collision Resolution
+202 How to remove a key from a HashTable? | Part 1 | Separate Chaining Collision Resolution
+203 How to remove a key from a HashTable? | Part 2 | Separate Chaining Collision Resolution
+204 How to remove a key from a HashTable? | Part 3 | Separate Chaining Collision Resolution
+
+
+Leetcode
+------------------
+205 Two Sum problem I in Java | Coding Interview Question
+206 Two Sum problem II animation in Java | Coding Interview Question
+207 Two Sum problem II implementation in Java | Coding Interview Question
+208 Is Valid Subsequence problem (animation) in Java | Coding Interview Question
+209 Is Valid Subsequence problem (Implementation) in Java | Coding Interview Question
+210 First Non-Repeating Character in a String | Animation | Coding Interview Question
+211 First Non-Repeating Character in a String | Implementation | Coding Interview Question
+212 Remove Vowels from a String | Animation | Coding Interview Question
+213 Remove Vowels from a String | Implementation | Coding Interview Question
+214 How to Reverse an Integer in Java? | Coding Interview Question | Animation
+215 Three Sum problem Animation in Java | Coding Interview Question
+216 Product of an Array except self | Animation | Coding Interview
+217 Sliding Window Maximum (Maximum of all subarrays of size k) | Leetcode #239 | Animation
+218 Maximum Sum Subarray of Size K | Animation | Coding Interview Question
+219 Longest Substring Without Repeating Characters | Leetcode #3 | Google Coding Interview Question
+220 Symmetric Tree | Leetcode #101 | Animation | Amazon Interview Question
+
+
+Intervals
+------------------
+221 Introduction to Intervals and Overlapping Intervals
+222 Merge Intervals | Leetcode 56 | Animation | Coding Interview Problem
+223 Insert Interval | Leetcode 57 | Animation | Coding Interview Problem
+
+Intervals Leetcode
+Leetcode 57. Insert Interval https://leetcode.com/problems/insert-interval/
+Leetcode 56. Merge Intervals https://leetcode.com/problems/merge-intervals/
+Leetcode 435. Non-overlapping Intervals https://leetcode.com/problems/non-overlapping-intervals/
+Leetcode https://leetcode.com/problems/meeting-rooms/
+Leetcode https://leetcode.com/problems/meeting-rooms-ii/
+Leetcode 1851. Minimum Interval to Include Each Query https://leetcode.com/problems/minimum-interval-to-include-each-query/
+
+Mathematical Algorithms
+------------------
+1 How to Reverse an Integer in Java? | Coding Interview Question | Animation
+2 Remove Even Integers from an Array | Animation | Coding Interview Question
+3 Product of an Array except self | Animation | Coding Interview
+4 Rearrange Sorted Array in Max/Min form | Animation | Coding interview question
+5 Remove Even Integers from an Array | Implementation | Coding Interview Question
+
+
+Mathematical Leetcode
+Leetcode 48. Rotate Image https://leetcode.com/problems/rotate-image/
+Leetcode 54. Spiral Matrix https://leetcode.com/problems/spiral-matrix/
+Leetcode 73. Set Matrix Zeroes https://leetcode.com/problems/set-matrix-zeroes/
+Leetcode 202. Happy Number https://leetcode.com/problems/happy-number/
+Leetcode 66. Plus One https://leetcode.com/problems/plus-one/
+Leetcode 50. Pow(x, n) https://leetcode.com/problems/powx-n/
+Leetcode 43. Multiply Strings https://leetcode.com/problems/multiply-strings/
+Leetcode 2013. Detect Squares https://leetcode.com/problems/detect-squares/
+
+
+
+BackTracking Leetcode
+Leetcode 78. Subsets https://leetcode.com/problems/subsets/
+Leetcode 39. Combination Sum https://leetcode.com/problems/combination-sum/
+Leetcode 46. Permutations https://leetcode.com/problems/permutations/
+Leetcode 90. Subsets II https://leetcode.com/problems/subsets-ii/
+Leetcode 40. Combination Sum II https://leetcode.com/problems/combination-sum-ii/v
+Leetcode 79. Word Search https://leetcode.com/problems/word-search/
+Leetcode 131. Palindrome Partitioning https://leetcode.com/problems/palindrome-partitioning/
+Leetcode 17. Letter Combinations of a Phone Number https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+Leetcode 51. N-Queens https://leetcode.com/problems/n-queens/
+
+
+Greedy Leetcode
+Leetcode 53. Maximum Subarray https://leetcode.com/problems/maximum-subarray/
+Leetcode 55. Jump Game https://leetcode.com/problems/jump-game/
+Leetcode 45. Jump Game II https://leetcode.com/problems/jump-game-ii/
+Leetcode 134. Gas Station https://leetcode.com/problems/gas-station/
+Leetcode 846. Hand of Straights https://leetcode.com/problems/hand-of-straights/
+Leetcode 1899. Merge Triplets to Form Target Triplet https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
+Leetcode 763. Partition Labels https://leetcode.com/problems/partition-labels/
+Leetcode 678. Valid Parenthesis String https://leetcode.com/problems/valid-parenthesis-string/
+
+
+Bit Manipulation Leetcode
+Leetcode 136. Single Number https://leetcode.com/problems/single-number/
+Leetcode 191. Number of 1 Bits https://leetcode.com/problems/number-of-1-bits/
+Leetcode 338. Counting Bits https://leetcode.com/problems/counting-bits/
+Leetcode 190. Reverse Bits https://leetcode.com/problems/reverse-bits/
+Leetcode 268. Missing Number https://leetcode.com/problems/missing-number/
+Leetcode 371. Sum of Two Integers https://leetcode.com/problems/sum-of-two-integers/
+Leetcode 7. Reverse Integer https://leetcode.com/problems/reverse-integer/
+
