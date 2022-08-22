@@ -165,10 +165,10 @@ Queue
 92 How to implement a Queue in Java ? | Part 1
 93 Part 2 - How to implement a Queue in Java - Enqueue Operation
 94 Part 3 - How to implement a Queue in Java - Dequeue Operation
+95 Generate Binary numbers from 1 to n using a Queue | Animation
 
 Binary Tree
 ------------------
-95 Generate Binary numbers from 1 to n using a Queue | Animation
 96 How to represent a Binary Tree in Java ?
 97 How to Implement a Binary Tree in Java | Binary Tree Data Structure
 98 Recursive PreOrder traversal of a Binary Tree in Java
@@ -181,6 +181,10 @@ Binary Tree
 105 Level order traversal of a Binary Tree in Java
 106 How to find Maximum value in a Binary Tree? (Recursive) | Animation
 107 How to find Maximum value in a Binary Tree? (Recursive) | Implementation
+
+
+Binary Search Tree
+------------------
 108 How to represent Binary Search Tree in Java? | Animation
 109 How to represent Binary Search Tree in Java? | Implementation
 110 How to insert a value in a Binary Search Tree in Java (Recursive) | Animation
