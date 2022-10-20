@@ -26,7 +26,7 @@ public class LeetCode0242 {
         for (int n : store) if (n != 0) return false;
 
 
-        store[0]++;
+        //store[0]++;
 
         return true;
     }

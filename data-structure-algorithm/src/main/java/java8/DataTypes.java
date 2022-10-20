@@ -1,7 +1,9 @@
 package java8;
 
+import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
+import java.util.function.Supplier;
 
 public class DataTypes {
     public static void main(String[] args) {
@@ -19,6 +21,11 @@ public class DataTypes {
 
     Predicate<String> pred = s -> s.equals("Hello");
 
+    Consumer<String> consumer  = s-> {
+        System.out.println(s);
+    };
+
+    Supplier<String> sup =  () -> "";
 
     public void print() {
         System.out.println(0F/0F);
