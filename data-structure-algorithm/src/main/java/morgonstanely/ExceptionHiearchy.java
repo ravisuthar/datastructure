@@ -1,4 +1,4 @@
-package collections;
+package morgonstanely;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

@@ -1,9 +1,7 @@
-package collections;
+package morgonstanely;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Objects;
 
 class Color{
     String name;

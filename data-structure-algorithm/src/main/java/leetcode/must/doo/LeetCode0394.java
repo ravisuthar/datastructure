@@ -1,6 +1,6 @@
 package leetcode.must.doo;
 
-import collections.StackGenerics;
+import dinesh.varyani.stack.StackGenerics;
 
 //https://leetcode.com/problems/decode-string/
 public class LeetCode0394 {

@@ -1,6 +1,6 @@
 package leetcode.must.doo;
 
-import collections.BinaryTree;
+import dinesh.varyani.binarytree.BinaryTree;
 
 public class BinaryTreeTest {
     public static void main(String[] args) {

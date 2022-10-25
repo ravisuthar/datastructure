@@ -1,4 +1,4 @@
-package collections;
+package morgonstanely;
 
 public class TryFinally {
 

@@ -1,4 +1,4 @@
-package collections;
+package dinesh.varyani.stack;
 
 import java.util.ArrayList;
 import java.util.List;

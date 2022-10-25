@@ -1,12 +1,12 @@
-package collections;
+package dinesh.varyani.stack;
 
 import java.util.Arrays;
 
-public class Stack {
+public class Stackk {
     int[] storage;
     int top;
 
-    public Stack(int size) {
+    public Stackk(int size) {
         this.storage = new int[size];
         this.top = -1;
     }
@@ -42,7 +42,7 @@ public class Stack {
     }
 
     public static void main(String[] args) {
-        Stack stack = new Stack(5);
+        Stackk stack = new Stackk(5);
         stack.print();
        // stack.pop();
       //  stack.peep();

@@ -1,7 +1,6 @@
-package dinesh.varyani;
+package dinesh.varyani.linkedlist;
 
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 /**

@@ -1,4 +1,4 @@
-package dinesh.varyani;
+package dinesh.varyani.linkedlist;
 
 public class CircularSinglyLinkedList {
 

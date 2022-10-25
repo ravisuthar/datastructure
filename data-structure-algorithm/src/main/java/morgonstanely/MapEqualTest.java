@@ -1,4 +1,4 @@
-package collections;
+package morgonstanely;
 
 import java.util.HashMap;
 import java.util.Map;
