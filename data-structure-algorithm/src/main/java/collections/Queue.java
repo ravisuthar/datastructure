@@ -10,7 +10,7 @@ public class Queue {
     private ListNode tail;
     private int length;
 
-    public static class ListNode {
+    private static class ListNode {
         private int data;
         private ListNode next;
         public ListNode(int data) {

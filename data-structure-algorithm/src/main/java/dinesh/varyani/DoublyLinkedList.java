@@ -13,7 +13,7 @@ public class DoublyLinkedList {
     }
 
 
-    public class ListNode {
+    private class ListNode {//public
         int data;
         ListNode next;
         ListNode previous;
