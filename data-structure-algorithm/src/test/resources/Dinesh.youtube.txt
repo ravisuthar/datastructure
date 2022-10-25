@@ -1,5 +1,5 @@
 
-Algorithm
+Algorithm - done
 ------------------
 1  Data Structures and Algorithms in Java | Free course | Animations and Implementations
 2  Introduction to Data Structures | Data Structures and Algorithms in Java
@@ -15,7 +15,7 @@ Algorithm
 12 Calculating Time complexity of a Linear Algorithm (Big O)
 13 Calculating Time complexity of a Polynomial Algorithm (Big O)
 
-LinkedList - Singly
+LinkedList - Singly- done
 ------------------
 14 Represent a Singly Linked List in Java
 15 How to Implement a Singly Linked List in Java | Data Structures and Algorithms
@@ -70,7 +70,7 @@ Leetcode 23. Merge k Sorted Lists https://leetcode.com/problems/merge-k-sorted-l
 Leetcode 25. Reverse Nodes in k-Group https://leetcode.com/problems/reverse-nodes-in-k-group/
 
 
-LinkedList - Doubly
+LinkedList - Doubly- done
 ------------------
 51 How to represent a Doubly Linked List in Java ?
 52 How to implement Doubly Linked List in Java ? | Data Structures and Algorithms
@@ -80,7 +80,7 @@ LinkedList - Doubly
 56 How to delete first node in a Doubly Linked List in Java ?
 57 How to delete last node in a Doubly Linked List in Java ?
 
-LinkedList - Circular
+LinkedList - Circular- done
 ------------------
 58 How to represent a Circular Singly Linked List in Java ?
 59 How to implement a Circular Singly Linked List in Java ?
@@ -89,7 +89,7 @@ LinkedList - Circular
 62 How to insert node at the end of a Circular Singly Linked List in Java ?
 63 How to remove first node from a Circular Singly Linked List in Java ?
 
-Array
+Array- done
 ------------------
 64 Introduction to One-Dimensional Array
 65 Declaration and Initialization of a One-Dimensional Array
@@ -140,7 +140,7 @@ Leetcode 76. Minimum Window Substring https://leetcode.com/problems/minimum-wind
 Leetcode 239. Sliding Window Maximum https://leetcode.com/problems/sliding-window-maximum/
 
 
-Stack
+Stack- done
 ------------------
 85 How to represent a Stack in Java ?
 86 How to implement a Stack in Java ? | Stack in Data Structure
@@ -159,7 +159,7 @@ Leetcode 853. Car Fleet https://leetcode.com/problems/car-fleet/
 Leetcode 84. Largest Rectangle in Histogram https://leetcode.com/problems/largest-rectangle-in-histogram/
 
 
-Queue
+Queue- done
 ------------------
 91 How to represent a Queue in Java ?
 92 How to implement a Queue in Java ? | Part 1
@@ -167,7 +167,7 @@ Queue
 94 Part 3 - How to implement a Queue in Java - Dequeue Operation
 95 Generate Binary numbers from 1 to n using a Queue | Animation
 
-Binary Tree
+Binary Tree -- todo 26 Dec 2022
 ------------------
 96 How to represent a Binary Tree in Java ?
 97 How to Implement a Binary Tree in Java | Binary Tree Data Structure
@@ -183,7 +183,7 @@ Binary Tree
 107 How to find Maximum value in a Binary Tree? (Recursive) | Implementation
 
 
-Binary Search Tree
+Binary Search Tree-- todo 26 Dec 2022
 ------------------
 108 How to represent Binary Search Tree in Java? | Animation
 109 How to represent Binary Search Tree in Java? | Implementation
@@ -216,7 +216,7 @@ Leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal https://
 Leetcode 124. Binary Tree Maximum Path Sum https://leetcode.com/problems/binary-tree-maximum-path-sum/
 Leetcode 297. Serialize and Deserialize Binary Tree https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 
-Max Heap
+Max Heap-- todo 26 Dec 2022
 ------------------
 120 How to implement Max Heap in Java? | Animation
 121 Initial Implementation - How to implement Max Heap in Java?
@@ -235,7 +235,7 @@ Leetcode 355. Design Twitter https://leetcode.com/problems/design-twitter/
 Leetcode 295. Find Median from Data Stream https://leetcode.com/problems/find-median-from-data-stream/
 
 
-Searching Algorithm
+Searching Algorithm-- todo 26 Dec 2022
 ------------------
 127 Linear Search in Java | Searching Algorithm | Animation
 128 Linear Search in Java | Searching Algorithm | Implementation
@@ -277,7 +277,7 @@ Leetcode 981. Time Based Key-Value Store https://leetcode.com/problems/time-base
 Leetcode 4. Median of Two Sorted Arrays https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 
-Graph
+Graph-- todo 27 Dec 2022
 ------------------
 156 Introduction to Graphs | Graph Data Structure and Algorithms
 157 Adjacency Matrix Representation of Graph in Java
@@ -310,7 +310,7 @@ Leetcode https://leetcode.com/problems/graph-valid-tree/
 Leetcode 127. Word Ladder https://leetcode.com/problems/word-ladder/
 
 
-Advance Graph Leetcode
+Advance Graph Leetcode-- todo 27 Dec 2022
 Leetcode 332. Reconstruct Itinerary https://leetcode.com/problems/reconstruct-itinerary/
 Leetcode 1584. Min Cost to Connect All Points https://leetcode.com/problems/min-cost-to-connect-all-points/
 Leetcode 743. Network Delay Time https://leetcode.com/problems/network-delay-time/
@@ -318,7 +318,7 @@ Leetcode 778. Swim in Rising Water https://leetcode.com/problems/swim-in-rising-
 Leetcode https://leetcode.com/problems/alien-dictionary/
 Leetcode 787. Cheapest Flights Within K Stops https://leetcode.com/problems/cheapest-flights-within-k-stops/
 
-Trie
+Trie-- todo 27 Dec 2022
 ------------------
 170 Introduction to Trie Data Structures
 171 How to represent a TrieNode in Java?
@@ -334,7 +334,7 @@ Leetcode 211. Design Add and Search Words Data Structure https://leetcode.com/pr
 Leetcode 212. Word Search II https://leetcode.com/problems/word-search-ii/
 
 
-Dynamic Programming
+Dynamic Programming-- todo 28 Dec 2022
 ------------------
 177 Introduction to Dynamic Programming
 178 Recursion and Dynamic Programming - Part 1
@@ -378,7 +378,7 @@ Leetcode 312. Burst Balloons https://leetcode.com/problems/burst-balloons/
 Leetcode 10. Regular Expression Matching https://leetcode.com/problems/regular-expression-matching/
 
 
-Hashing
+Hashing-- todo 28 Dec 2022
 ------------------
 189 Introduction to Hashing | Data Structures and Algorithms
 190 What are Hash Functions? | Hashing Data Structure
@@ -398,7 +398,7 @@ Hashing
 204 How to remove a key from a HashTable? | Part 3 | Separate Chaining Collision Resolution
 
 
-Leetcode
+Leetcode-- todo 28 Dec 2022
 ------------------
 205 Two Sum problem I in Java | Coding Interview Question
 206 Two Sum problem II animation in Java | Coding Interview Question
@@ -418,7 +418,7 @@ Leetcode
 220 Symmetric Tree | Leetcode #101 | Animation | Amazon Interview Question
 
 
-Intervals
+Intervals-- todo 28 Dec 2022
 ------------------
 221 Introduction to Intervals and Overlapping Intervals
 222 Merge Intervals | Leetcode 56 | Animation | Coding Interview Problem
@@ -432,7 +432,7 @@ Leetcode https://leetcode.com/problems/meeting-rooms/
 Leetcode https://leetcode.com/problems/meeting-rooms-ii/
 Leetcode 1851. Minimum Interval to Include Each Query https://leetcode.com/problems/minimum-interval-to-include-each-query/
 
-Mathematical Algorithms
+Mathematical Algorithms-- todo 28 Dec 2022
 ------------------
 1 How to Reverse an Integer in Java? | Coding Interview Question | Animation
 2 Remove Even Integers from an Array | Animation | Coding Interview Question
