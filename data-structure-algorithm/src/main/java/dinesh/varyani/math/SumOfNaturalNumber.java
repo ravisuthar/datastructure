@@ -1,4 +1,4 @@
-package dinesh.varyani;
+package dinesh.varyani.math;
 
 public class SumOfNaturalNumber {
 
