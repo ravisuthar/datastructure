@@ -167,7 +167,7 @@ Queue- done
 94 Part 3 - How to implement a Queue in Java - Dequeue Operation
 95 Generate Binary numbers from 1 to n using a Queue | Animation
 
-Binary Tree -- todo 26 Dec 2022
+Binary Tree- done
 ------------------
 96 How to represent a Binary Tree in Java ?
 97 How to Implement a Binary Tree in Java | Binary Tree Data Structure
@@ -183,7 +183,7 @@ Binary Tree -- todo 26 Dec 2022
 107 How to find Maximum value in a Binary Tree? (Recursive) | Implementation
 
 
-Binary Search Tree-- todo 26 Dec 2022
+Binary Search Tree- done
 ------------------
 108 How to represent Binary Search Tree in Java? | Animation
 109 How to represent Binary Search Tree in Java? | Implementation
@@ -192,11 +192,18 @@ Binary Search Tree-- todo 26 Dec 2022
 112 How to search a given key in a Binary Search Tree (Recursive) | Animation
 113 How to search a given key in a Binary Search Tree (Recursive) | Implementation
 114 Validate Binary Search Tree | Animation | Leetcode #98 | Coding Interview question
+
+Matrix-- todo 26 Dec 2022
+------------------
 115 Search in a row and column wise sorted matrix | Animation
 116 Search in a row and column wise sorted matrix | Implementation
 117 Print a given matrix in Spiral form | Animation | Coding Interview Question
+
+
+Priority Queue and Binary Heap-- todo 26 Dec 2022
+------------------
 118 Introduction to Priority Queue and Binary Heap in Java
-119 How to represent a Binary Heap in Java? | Animation
+
 
 
 Binary Tree Leetcode
@@ -218,6 +225,7 @@ Leetcode 297. Serialize and Deserialize Binary Tree https://leetcode.com/problem
 
 Max Heap-- todo 26 Dec 2022
 ------------------
+119 How to represent a Binary Heap in Java? | Animation
 120 How to implement Max Heap in Java? | Animation
 121 Initial Implementation - How to implement Max Heap in Java?
 122 Bottom - Up Reheapify (Swim) in Max Heap | Animation | Priority Queue
