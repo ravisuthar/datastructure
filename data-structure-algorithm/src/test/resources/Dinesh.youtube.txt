@@ -193,14 +193,14 @@ Binary Search Tree- done
 113 How to search a given key in a Binary Search Tree (Recursive) | Implementation
 114 Validate Binary Search Tree | Animation | Leetcode #98 | Coding Interview question
 
-Matrix-- todo 26 Dec 2022
+Matrix
 ------------------
 115 Search in a row and column wise sorted matrix | Animation
 116 Search in a row and column wise sorted matrix | Implementation
-117 Print a given matrix in Spiral form | Animation | Coding Interview Question
+important --117 Print a given matrix in Spiral form | Animation | Coding Interview Question
 
 
-Priority Queue and Binary Heap-- todo 26 Dec 2022
+Priority Queue and Binary Heap
 ------------------
 118 Introduction to Priority Queue and Binary Heap in Java
 
@@ -223,7 +223,7 @@ Leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal https://
 Leetcode 124. Binary Tree Maximum Path Sum https://leetcode.com/problems/binary-tree-maximum-path-sum/
 Leetcode 297. Serialize and Deserialize Binary Tree https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 
-Max Heap-- todo 26 Dec 2022
+Max Heap
 ------------------
 119 How to represent a Binary Heap in Java? | Animation
 120 How to implement Max Heap in Java? | Animation
@@ -232,7 +232,7 @@ Max Heap-- todo 26 Dec 2022
 123 How to insert in a Max Heap in Java ? | Animation
 124 How to insert in a Max Heap in Java ? | Implementation
 125 Top - Down Reheapify (Sink) in Max Heap | Animation | Priority Queue
-126 How to delete max element in a Max Heap in Java ? | Animation
+imp-126 How to delete max element in a Max Heap in Java ? | Animation
 
 Heap/PriorityQueue Leetcode
 Leetcode 703. Kth Largest Element in a Stream https://leetcode.com/problems/kth-largest-element-in-a-stream/
