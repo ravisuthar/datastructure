@@ -329,13 +329,13 @@ Leetcode 778. Swim in Rising Water https://leetcode.com/problems/swim-in-rising-
 Leetcode https://leetcode.com/problems/alien-dictionary/
 Leetcode 787. Cheapest Flights Within K Stops https://leetcode.com/problems/cheapest-flights-within-k-stops/
 
-Trie-- todo 27 Dec 2022
+Trie
 ------------------
 170 Introduction to Trie Data Structures
 171 How to represent a TrieNode in Java?
 172 How to implement Trie in Java? | Animation
 173 How to implement Trie in Java ? | Implementation
-174 How to insert a word in Trie - Part 1 | Animation
+174 How to insert a word in Trie - Part 1 |
 175 How to insert a word in Trie - Part 2 | Animation
 176 Implementation - How to insert a word in Trie ?
 
@@ -345,7 +345,7 @@ Leetcode 211. Design Add and Search Words Data Structure https://leetcode.com/pr
 Leetcode 212. Word Search II https://leetcode.com/problems/word-search-ii/
 
 
-Dynamic Programming-- todo 28 Dec 2022
+Dynamic Programming
 ------------------
 177 Introduction to Dynamic Programming
 178 Recursion and Dynamic Programming - Part 1
