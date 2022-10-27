@@ -243,12 +243,15 @@ Leetcode 355. Design Twitter https://leetcode.com/problems/design-twitter/
 Leetcode 295. Find Median from Data Stream https://leetcode.com/problems/find-median-from-data-stream/
 
 
-Searching Algorithm-- todo 26 Dec 2022
+Searching Algorithm
 ------------------
 127 Linear Search in Java | Searching Algorithm | Animation
 128 Linear Search in Java | Searching Algorithm | Implementation
 129 Binary Search in Java
 130 Search Insert Position in a Sorted Array | Animation | Leetcode #35 | Coding Interview Question
+
+Sorting Algorithm
+------------------
 131 Bubble Sort in Java - Part 1 | Animation
 132 Bubble Sort in Java - Part 2 | Animation
 133 Bubble Sort in Java | Implementation
@@ -264,7 +267,7 @@ Searching Algorithm-- todo 26 Dec 2022
 143 Merge Sort in Java - Part 1 | Animation | Conceptual Overview | Sorting Algorithms
 144 Merge Sort in Java - Part 2 | Merge Method Animation | Conceptual Overview | Sorting Algorithms
 145 Merge Sort in Java - Part 3 | Animation | Sorting Algorithms
-146 Merge Sort in Java - Part 4 | Implementation | Sorting Algorithms
+important--146 Merge Sort in Java - Part 4 | Implementation | Sorting Algorithms
 147 Sort an array of 0’s, 1’s, and 2’s (Dutch National Flag Problem) Part 1 | Animation
 148 Sort an array of 0’s, 1’s, and 2’s (Dutch National Flag Problem) Part 2 | Animation
 149 Quick Sort Algorithm in Java - Part 1 | Animation | Conceptual Overview | Sorting Algorithms
@@ -273,7 +276,7 @@ Searching Algorithm-- todo 26 Dec 2022
 152 Quick Sort Algorithm in Java - Part 4 | Animation | Conceptual Overview | Sorting Algorithms
 153 Squares of a Sorted Array | Animation | Coding Interview Question
 154 Squares of a Sorted Array | Implementation | Coding Interview Question
-155 Rearrange Sorted Array in Max/Min form | Animation | Coding interview question
+important - math --155 Rearrange Sorted Array in Max/Min form | Animation | Coding interview question
 
 Binary Search Leetcode
 Leetcode 704. Binary Search https://leetcode.com/problems/binary-search/

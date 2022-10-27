@@ -2,7 +2,7 @@ package abdul.bari;
 
 import java.util.Arrays;
 
-public class MergeTwoArray {
+public class MergeTwoSortedArray {
     public static void main(String[] args) {
         int[] a = new int[]{2, 8, 15, 18};
         int[] b = new int[]{5, 9, 12, 17};
