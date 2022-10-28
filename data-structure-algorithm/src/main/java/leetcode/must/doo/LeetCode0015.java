@@ -12,6 +12,9 @@ public class LeetCode0015 {
     }
 
 
+
+    //sort array
+    //use three pointers
     public List<List<Integer>> threeSum(int[] nums) {
         if(nums.length <3) throw new RuntimeException("does not support");
         Arrays.sort(nums);

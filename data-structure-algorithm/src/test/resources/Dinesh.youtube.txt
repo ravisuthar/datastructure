@@ -422,18 +422,18 @@ Leetcode
 213 Remove Vowels from a String | Implementation | Coding Interview Question
 214 How to Reverse an Integer in Java? | Coding Interview Question | Animation
 215 Three Sum problem Animation in Java | Coding Interview Question
-216 Product of an Array except self | Animation | Coding Interview
-217 Sliding Window Maximum (Maximum of all subarrays of size k) | Leetcode #239 | Animation
-218 Maximum Sum Subarray of Size K | Animation | Coding Interview Question
-219 Longest Substring Without Repeating Characters | Leetcode #3 | Google Coding Interview Question
-220 Symmetric Tree | Leetcode #101 | Animation | Amazon Interview Question
+important --216 Product of an Array except self | Animation | Coding Interview
+important --217 Sliding Window Maximum (Maximum of all subarrays of size k) | Leetcode #239 | Animation
+important --218 Maximum Sum Subarray of Size K | Animation | Coding Interview Question
+important --219 Longest Substring Without Repeating Characters | Leetcode #3 | Google Coding Interview Question
+important --220 Symmetric Tree | Leetcode #101 | Animation | Amazon Interview Question
 
 
-Intervals-- todo 28 Dec 2022
+Intervals and Overlapping Intervals
 ------------------
-221 Introduction to Intervals and Overlapping Intervals
-222 Merge Intervals | Leetcode 56 | Animation | Coding Interview Problem
-223 Insert Interval | Leetcode 57 | Animation | Coding Interview Problem
+important --221 Introduction to Intervals and Overlapping Intervals
+important --222 Merge Intervals | Leetcode 56 | Animation | Coding Interview Problem
+important --223 Insert Interval | Leetcode 57 | Animation | Coding Interview Problem
 
 Intervals Leetcode
 Leetcode 57. Insert Interval https://leetcode.com/problems/insert-interval/
@@ -443,7 +443,7 @@ Leetcode https://leetcode.com/problems/meeting-rooms/
 Leetcode https://leetcode.com/problems/meeting-rooms-ii/
 Leetcode 1851. Minimum Interval to Include Each Query https://leetcode.com/problems/minimum-interval-to-include-each-query/
 
-Mathematical Algorithms-- todo 28 Dec 2022
+Mathematical Algorithms
 ------------------
 1 How to Reverse an Integer in Java? | Coding Interview Question | Animation
 2 Remove Even Integers from an Array | Animation | Coding Interview Question
