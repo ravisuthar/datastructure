@@ -3,7 +3,7 @@ package dinesh.varyani.problems;
 import java.util.Set;
 
 //Given a string, remove the vowels from the string and return the string without vowels.
-public class RemoveVovels {
+public class RemoveVowels {
 
     public static String remove(String s) {
         Set<Character> set = Set.of('a', 'e', 'i', 'o', 'u');

@@ -448,7 +448,7 @@ Mathematical Algorithms
 1 How to Reverse an Integer in Java? | Coding Interview Question | Animation
 2 Remove Even Integers from an Array | Animation | Coding Interview Question
 3 Product of an Array except self | Animation | Coding Interview
-4 Rearrange Sorted Array in Max/Min form | Animation | Coding interview question
+important--4 Rearrange Sorted Array in Max/Min form | Animation | Coding interview question
 5 Remove Even Integers from an Array | Implementation | Coding Interview Question
 
 
