@@ -409,7 +409,7 @@ Hashing
 204 How to remove a key from a HashTable? | Part 3 | Separate Chaining Collision Resolution
 
 
-Leetcode-- todo 28 Dec 2022
+Leetcode
 ------------------
 205 Two Sum problem I in Java | Coding Interview Question
 206 Two Sum problem II animation in Java | Coding Interview Question
