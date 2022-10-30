@@ -1,4 +1,3 @@
-
 Algorithm
 ------------------
 1  Data Structures and Algorithms in Java | Free course | Animations and Implementations
@@ -80,6 +79,7 @@ LinkedList - Doubly
 56 How to delete first node in a Doubly Linked List in Java ?
 57 How to delete last node in a Doubly Linked List in Java ?
 
+
 LinkedList - Circular
 ------------------
 58 How to represent a Circular Singly Linked List in Java ?
@@ -88,6 +88,7 @@ LinkedList - Circular
 61 How to insert node at the start of a Circular Singly Linked List in Java ?
 62 How to insert node at the end of a Circular Singly Linked List in Java ?
 63 How to remove first node from a Circular Singly Linked List in Java ?
+
 
 Array
 ------------------
@@ -461,7 +462,6 @@ Leetcode 66. Plus One https://leetcode.com/problems/plus-one/
 Leetcode 50. Pow(x, n) https://leetcode.com/problems/powx-n/
 Leetcode 43. Multiply Strings https://leetcode.com/problems/multiply-strings/
 Leetcode 2013. Detect Squares https://leetcode.com/problems/detect-squares/
-
 
 
 BackTracking Leetcode (https://neetcode.io/practice)

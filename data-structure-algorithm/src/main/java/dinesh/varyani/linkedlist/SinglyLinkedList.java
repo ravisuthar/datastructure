@@ -514,9 +514,9 @@ public class SinglyLinkedList {
         ListNode b1 = new ListNode(6);
         b.next=b1;
 
-        ListNode result = new ListNode(0);
+        ListNode result = new ListNode(0); //dummy element is creted and hence return  result.next
         int carry=0;
-        ListNode dummy=result;
+        ListNode dummy=result; //pointer is need
 
         while(a!=null || b!=null){
 
@@ -532,10 +532,10 @@ public class SinglyLinkedList {
         }
 
         if(carry>0){
-            dummy.next=new ListNode(carry);
+            dummy.next=new ListNode(carry); //imp condition.
         }
 
-        this.head=result.next;
+        this.head=result.next; //imp condition
     }
 
     public static void main(String[] args) {

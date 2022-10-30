@@ -11,6 +11,11 @@ public class ValidParenthesis {
             if (ch == '[' || ch == '{' || ch == '(') {
                 stack.push(ch);
             } else {
+
+                if (stack.isEmpty()) {
+                    return false;
+                }
+
                 char top = stack.peep();
                 if ((ch == ')' && top == '(')
                         || (ch == '}' && top == '{')
@@ -34,6 +39,8 @@ public class ValidParenthesis {
         for (char ch : chars) {
             if (ch == '[' || ch == '{' || ch == '(') {
                 stack.push(ch);
+            } else if (stack.isEmpty()) {
+                return false;
             } else if (ch == ']') {
                 char fromStack = stack.pop();
                 if (fromStack != '[') {
@@ -57,6 +64,6 @@ public class ValidParenthesis {
 
     public static void main(String[] args) {
 
-        System.out.println(new ValidParenthesis().isValid("[({()})]"));
+        System.out.println(new ValidParenthesis().hasValidParenthesis("]})"));
     }
 }
