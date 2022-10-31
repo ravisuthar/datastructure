@@ -32,10 +32,10 @@ import java.util.Map;
  * Input: nums = [3,3], target = 6
  * Output: [0,1]
  */
-public class LeetCode0001 {
+public class LeetCode0001_Two_Sum {
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(new LeetCode0001().twoSum(new int[]{3, 2, 4}, 6)));
+        System.out.println(Arrays.toString(new LeetCode0001_Two_Sum().twoSum(new int[]{3, 2, 4}, 6)));
     }
 
 

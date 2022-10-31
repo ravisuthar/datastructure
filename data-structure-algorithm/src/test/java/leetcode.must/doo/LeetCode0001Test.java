@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 class LeetCode0001Test {
 
-    private LeetCode0001 unitUnderTest = new LeetCode0001();
+    private LeetCode0001_Two_Sum unitUnderTest = new LeetCode0001_Two_Sum();
 
     @Test
     void test1() {
