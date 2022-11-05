@@ -3,6 +3,7 @@ package neetcode.io;
 import java.util.*;
 import java.util.stream.Collectors;
 
+//https://leetcode.com/problems/group-anagrams/
 /**
  * 49. Group Anagrams
  * <p>
@@ -25,7 +26,7 @@ import java.util.stream.Collectors;
  * Input: strs = ["a"]
  * Output: [["a"]]
  */
-public class LeetCode0049 {
+public class LeetCode0049_Medium_GroupAnagram {
 
     public static List<List<String>> groupAnagrams(String[] strs) {
 

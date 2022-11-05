@@ -2,12 +2,60 @@ package leetcode.must.doo;
 
 import java.util.*;
 
+/**
+ * 3. Longest Substring Without Repeating Characters
+ * Given a string s, find the length of the longest substring without repeating characters.
+ * <p>
+ * <p>
+ * <p>
+ * Example 1:
+ * <p>
+ * Input: s = "abcabcbb"
+ * Output: 3
+ * Explanation: The answer is "abc", with the length of 3.
+ * Example 2:
+ * <p>
+ * Input: s = "bbbbb"
+ * Output: 1
+ * Explanation: The answer is "b", with the length of 1.
+ * Example 3:
+ * <p>
+ * Input: s = "pwwkew"
+ * Output: 3
+ * Explanation: The answer is "wke", with the length of 3.
+ * Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+ * <p>
+ * <p>
+ * Constraints:
+ * <p>
+ * 0 <= s.length <= 5 * 104
+ * s consists of English letters, digits, symbols and spaces.
+ */
 //https://leetcode.com/problems/longest-substring-without-repeating-characters/
-public class LeetCode0003 {
+public class LeetCode0003_LongestSubstringWithoutRepeatingCharacters {
 
     public static void main(String[] args) {
-        System.out.println(new LeetCode0003().dineshVaryani("pwwkew"));
+        System.out.println(new LeetCode0003_LongestSubstringWithoutRepeatingCharacters().raviSuthar("pwwkew"));
+        System.out.println(new LeetCode0003_LongestSubstringWithoutRepeatingCharacters().raviSuthar("abcabcbb"));
+        System.out.println(new LeetCode0003_LongestSubstringWithoutRepeatingCharacters().raviSuthar("bbbbb"));
+
     }
+
+    public int raviSuthar(String s) {
+        Map<Character, Integer> map = new HashMap<>();
+        int max = 0;
+        for (int i = 0, j = 0; i < s.length() - 1 && j < s.length() - 1; i++) {
+
+            if (map.containsKey(s.charAt(i))) {
+                j = Math.max(j, map.get(s.charAt(i)) + 1);
+            }
+            map.put(s.charAt(i), i);
+            max = Math.max(max, i - j + 1);
+
+        }
+        return max;
+    }
+
 
     //https://www.youtube.com/watch?v=zKrEIlwbF5A&t=16s&ab_channel=DineshVaryani
     public int dineshVaryani(String s) {
@@ -16,12 +64,12 @@ public class LeetCode0003 {
         int start = 0;
         int maxLength = 0;
         for (int end = 0; end < s.length(); end++) {
-            Character right= s.charAt(end);
-            if(map.containsKey(right)){
-                start = Math.max(start, map.get(right)+1);//for PWWKEW
+            Character right = s.charAt(end);
+            if (map.containsKey(right)) {
+                start = Math.max(start, map.get(right) + 1);//for PWWKEW
             }
             map.put(right, end);
-            maxLength = Math.max(maxLength, end-start+1);
+            maxLength = Math.max(maxLength, end - start + 1);
         }
 
         return maxLength;

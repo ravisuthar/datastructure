@@ -34,7 +34,7 @@ import java.util.Set;
  * 1 <= nums.length <= 105
  * -109 <= nums[i] <= 109
  */
-public class LeetCode217 {
+public class LeetCode217_Easy_ContainsDuplicate {
 
     public boolean containsDuplicate(int[] nums) {
 
@@ -47,7 +47,7 @@ public class LeetCode217 {
         return false;
     }
     public static void main(String[] args) {
-        LeetCode217 test = new LeetCode217();
+        LeetCode217_Easy_ContainsDuplicate test = new LeetCode217_Easy_ContainsDuplicate();
         var result = test.containsDuplicate(new int[]{1,2,2,1});
         System.out.println(result);
     }

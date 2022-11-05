@@ -4,9 +4,9 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LeetCode001 {
+public class LeetCode001_Easy_TwoSum {
     public static void main(String[] args) {
-        LeetCode001 test = new LeetCode001();
+        LeetCode001_Easy_TwoSum test = new LeetCode001_Easy_TwoSum();
         int[] result = test.twoSum(new int[]{2, 7, 11, 15}, 9);
         System.out.println(Arrays.toString(result));
 

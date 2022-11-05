@@ -22,7 +22,7 @@ package neetcode.io;
  * Output: []
  */
 //https://leetcode.com/problems/reverse-linked-list/
-public class LeetCode0206 {
+public class LeetCode0206_Easy_ReverseLinkedList {
 
 
     //1 2
@@ -59,7 +59,7 @@ public class LeetCode0206 {
     }
 
     public static void main(String[] args) {
-        new LeetCode0206().add();
+        new LeetCode0206_Easy_ReverseLinkedList().add();
     }
 
 }

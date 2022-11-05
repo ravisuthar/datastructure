@@ -2,6 +2,7 @@ package neetcode.io;
 
 import java.util.Arrays;
 
+//https://leetcode.com/problems/product-of-array-except-self/
 /**
  * 238. Product of Array Except Self
  * <p>
@@ -28,7 +29,7 @@ import java.util.Arrays;
  * Input: nums = [-1,1,0,-3,3]
  * Output: [0,0,9,0,0]
  */
-public class LeetCode0238_ProductOfArrayExceptSelf {
+public class LeetCode0238_Medium_ProductOfArrayExceptSelf {
     //time O(n^2)
     //space O(n)
     public static int[] productExceptSelf_BruteForce(int[] nums) {
