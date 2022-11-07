@@ -32,12 +32,12 @@ import java.util.*;
  * s consists of English letters, digits, symbols and spaces.
  */
 //https://leetcode.com/problems/longest-substring-without-repeating-characters/
-public class LeetCode0003_LongestSubstringWithoutRepeatingCharacters {
+public class LeetCode0003_Medium_LongestSubstringWithoutRepeatingCharacters {
 
     public static void main(String[] args) {
-        System.out.println(new LeetCode0003_LongestSubstringWithoutRepeatingCharacters().raviSuthar("pwwkew"));
-        System.out.println(new LeetCode0003_LongestSubstringWithoutRepeatingCharacters().raviSuthar("abcabcbb"));
-        System.out.println(new LeetCode0003_LongestSubstringWithoutRepeatingCharacters().raviSuthar("bbbbb"));
+        System.out.println(new LeetCode0003_Medium_LongestSubstringWithoutRepeatingCharacters().raviSuthar("pwwkew"));
+        System.out.println(new LeetCode0003_Medium_LongestSubstringWithoutRepeatingCharacters().raviSuthar("abcabcbb"));
+        System.out.println(new LeetCode0003_Medium_LongestSubstringWithoutRepeatingCharacters().raviSuthar("bbbbb"));
 
     }
 

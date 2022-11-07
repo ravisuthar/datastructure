@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 class LeetCode0003Test {
 
-    private LeetCode0003_LongestSubstringWithoutRepeatingCharacters unitUnderTest = new LeetCode0003_LongestSubstringWithoutRepeatingCharacters();
+    private LeetCode0003_Medium_LongestSubstringWithoutRepeatingCharacters unitUnderTest = new LeetCode0003_Medium_LongestSubstringWithoutRepeatingCharacters();
 
     @Test
     void test1() {

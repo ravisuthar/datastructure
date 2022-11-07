@@ -20,7 +20,7 @@ package leetcode.must.doo;
  * Input: s = "rat", t = "car"
  * Output: false
  */
-public class LeetCode0242 {
+public class LeetCode0242_Easy_ValidAnagram {
     public static void main(String[] args) {
 
         System.out.println(isAnagram("anagram","nagaram"));
@@ -44,7 +44,7 @@ public class LeetCode0242 {
 
         for (int i = 0; i < s.length(); i++) {
             store[s.charAt(i) - 'A']++;
-            store[t.charAt(i) - 'A']--;
+            store[t.charAt(i) - 'A']--;//what if second string is short
         }
 
         for (int n : store) if (n != 0) return false;
