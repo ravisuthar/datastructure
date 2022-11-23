@@ -15,5 +15,6 @@ public class ArrayTest {
 
         int[] ii = new int[Integer.MAX_VALUE];
         //long[] ll = new long[Long.MAX_VALUE]; not allowed
+        long[] ll = new long[Integer.MAX_VALUE]; //allowed
     }
 }

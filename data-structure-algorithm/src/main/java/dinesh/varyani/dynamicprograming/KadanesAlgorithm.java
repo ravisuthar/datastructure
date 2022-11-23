@@ -36,6 +36,6 @@ public class KadanesAlgorithm {
     }
 
     public static void main(String[] args) {
-        System.out.println(subArray(new int[]{13,3,-2,6,-12,7,-1,2136}));
+        System.out.println(subArray(new int[]{1,3,-2,6,-12,7,-1,8}));
     }
 }

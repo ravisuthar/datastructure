@@ -3,7 +3,7 @@ package dinesh.varyani.array;
 import java.util.Arrays;
 
 //good logic
-//two poiner logic
+//two pointer logic
 //increase left pointer only non zero value
 //double for loop didn't worked for me.
 public class MoveAllZeroEndOfArray {

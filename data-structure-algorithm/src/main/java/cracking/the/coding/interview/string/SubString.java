@@ -1,7 +1,7 @@
 package cracking.the.coding.interview.string;
 
 /*
-String Rotation; Assume you have a method isSubstrin g which checks if one word is a substring
+String Rotation; Assume you have a method isSubstring which checks if one word is a substring
 of another. Given two strings, si and s2, write code to check if s2 is a rotation of si using only one
 call to isSubstrin g (e.g.,"waterbottle"isa rotation of'erbottlewat").
  */

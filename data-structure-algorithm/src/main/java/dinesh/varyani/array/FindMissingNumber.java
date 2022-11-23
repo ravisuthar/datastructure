@@ -5,7 +5,7 @@ public class FindMissingNumber {
 
         int[] arr = {2, 4, 1, 8, 6, 3, 7};
         //size is 7 means n-1 so we can consider total size is 8
-        //so find the sum first n nautural number n*(n+1)/2
+        //so find the sum first n natural number n*(n+1)/2
 
         int size = arr.length + 1;
         int sum = size * (size + 1) / 2;
