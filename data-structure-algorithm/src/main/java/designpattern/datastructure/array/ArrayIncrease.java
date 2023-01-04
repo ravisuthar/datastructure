@@ -12,7 +12,7 @@ public class ArrayIncrease {
 		//System.arraycopy(arr, 0, copied, 1, 5);//5 is the length to copy
 		//System.arraycopy(arr, 0, copied, 0, arr.length);
 		
-		int[] copied = Arrays.copyOf(arr, 50); //10 the the length of the new array
+		int[] copied = Arrays.copyOf(arr, 50); //50 the the length of the new array
 		System.out.println(Arrays.toString(copied));
 	}
 }

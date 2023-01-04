@@ -64,6 +64,6 @@ public class ValidParenthesis {
 
     public static void main(String[] args) {
 
-        System.out.println(new ValidParenthesis().hasValidParenthesis("]})"));
+        System.out.println(new ValidParenthesis().hasValidParenthesis("(){"));
     }
 }

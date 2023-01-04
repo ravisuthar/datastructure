@@ -40,6 +40,10 @@ public class BinarySearchTree {
         inOrder(this.root);
     }
 
+
+    //in order = left, center, right
+    //pre order =
+    //post order =
     public void inOrder(TreeNode node) {
         if (null == node) return;
         inOrder(node.left);

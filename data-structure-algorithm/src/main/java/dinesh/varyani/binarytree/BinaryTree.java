@@ -52,6 +52,8 @@ public class BinaryTree {
     //travers the left subtree in preorder fashion
     //travers the right subtree in preorder fashionv
 
+
+    //preoder = center, left, right
     /**
      * 1
      * 2   3
