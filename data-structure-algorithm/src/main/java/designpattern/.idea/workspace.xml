@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1f38924-1473-46a6-b3e6-220cad2c6ab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../obj.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dinesh/varyani/dynamicprograming/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dinesh/varyani/hash/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dinesh/varyani/string/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/IfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8/JavaGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8/ubs/IlandMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8/ubs/ShowFirstResumt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/cow.serialized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/eager.serialized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/john.serialized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/out/production/test/com/hdfc/serialization/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/out/production/test/com/hdfc/serialization/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/out/production/test/com/hdfc/serialization/City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/out/production/test/com/hdfc/serialization/Cow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/out/production/test/com/hdfc/serialization/Student1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/out/production/test/com/hdfc/serialization/TestCow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/ClonnableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/FinalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/FinalizeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/GcExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/Generics1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/Generics2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/Generics3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/Generics4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/GenericsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/IdentityHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/LiskovTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/MapTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/PlayerAgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/PropertiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/RatingComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/SerializableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/StackOverFlowExcepionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/TestInstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/TestWeakHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/VectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/WeekDaysClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/WeekDaysEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/collections/Window98OSTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/homeloan/ArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/homeloan/HDFCBakn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/innerclasses/AnonymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/innerclasses/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/innerclasses/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/innerclasses/MethodInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/innerclasses/MyOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/innerclasses/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/innerclasses/SingleTonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/innerclasses/StaticInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/innerclasses/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/model/SerializeDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/serialization/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/serialization/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/serialization/DogSerializableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/serialization/Serialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/serialization/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/serialization/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/singleton/BillPughSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/singleton/BreakSingletonUsingReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/singleton/BreakUsingSerialiazation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/singleton/DoubleCheckSynchronizedBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/singleton/EagerInitilization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/singleton/EnumSingleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/singleton/LazyInitializationSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/singleton/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/singleton/StaticBlockSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/com/hdfc/singleton/ThreadSafeSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled2/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled2/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled2/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled2/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled3/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled3/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled3/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled3/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled4/src/test/java/FirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/src/main/java/org/example/BuyXItemGetYItemFreeOffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/src/main/java/org/example/DiscountOnNextItemOffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/src/main/java/org/example/IOffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/src/main/java/org/example/NoOffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/src/main/java/org/example/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/src/main/java/org/example/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../untitled5/src/test/java/com/example/ShoppingCartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dinesh/varyani/binarytree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dinesh/varyani/binarytree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dinesh/varyani/graph/NumberOfIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dinesh/varyani/graph/NumberOfIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dinesh/varyani/hash/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dinesh/varyani/hash/Hash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dinesh/varyani/linkedlist/CircularSinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dinesh/varyani/linkedlist/CircularSinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java8/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8/JPMC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java8/JPMC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neetcode/io/LeetCode0238_Medium_ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../neetcode/io/LeetCode0238_Medium_ProductOfArrayExceptSelf.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2jBZhlBM65htXP7LRSsxocyD7rE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sutha/IdeaProjects/datastructure/stock-analysis"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1f38924-1473-46a6-b3e6-220cad2c6ab8" name="Changes" comment="" />
+      <created>1720862551735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720862551735</updated>
+    </task>
+    <servers />
+  </component>
+</project>
