@@ -39,6 +39,7 @@ public class DoublyLinkedList {
         return count;
     }
 
+  // (this.head is on 1) null => 1 <=> 2 <=> 3 <=> 4 <=> null  (this.tail is on 4)
     public void insertDummyData() {
 
         ListNode one = new ListNode(1);
@@ -62,21 +63,24 @@ public class DoublyLinkedList {
     }
 
     public void printForward() {
+        System.out.print("null ");
         ListNode temp = this.head;
         while (null != temp) {
-            System.out.println(temp.data);
+            System.out.print(temp.data + " ");
             temp = temp.next;
         }
-        System.out.println("null");
+        System.out.println("null\n");
     }
 
     public void printBackward() {
+
+        System.out.print("null ");
         ListNode temp = this.tail;
         while (null != temp) {
-            System.out.println(temp.data);
+            System.out.print(temp.data + " ");
             temp = temp.previous;
         }
-        System.out.println("null");
+        System.out.println("null\n");
     }
 
     public void insertAtBeginning(int data) {
@@ -86,7 +90,7 @@ public class DoublyLinkedList {
             this.head = newNode;
         } else {
             newNode.next = this.head;
-            head.previous = newNode;
+            head.previous = newNode; //need to reset previous pointer
             this.head = newNode;
         }
     }
@@ -135,12 +139,13 @@ public class DoublyLinkedList {
 
     public static void main(String[] args) {
         DoublyLinkedList doublyLinkedList = new DoublyLinkedList();
-        // doublyLinkedList.insertDummyData();
-        //  doublyLinkedList.insertAtBeginning(0);
-        //  doublyLinkedList.insertAtEnd(5);
-        //doublyLinkedList.printForward();
-        //doublyLinkedList.printBackward();
+        doublyLinkedList.insertDummyData();
+        doublyLinkedList.insertAtBeginning(0);
+        doublyLinkedList.insertAtEnd(5);
+       doublyLinkedList.printForward();
+        doublyLinkedList.printBackward();
 
+        doublyLinkedList.deleteFirstNode();
         doublyLinkedList.deleteLastNode();
         doublyLinkedList.printForward();
         doublyLinkedList.printBackward();

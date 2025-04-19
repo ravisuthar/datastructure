@@ -50,8 +50,8 @@ public class UniqueCharInString {
 
     public static void main(String[] args) {
 
-        bitwiseOperator();
-        System.out.println(isUniqueChars("abcabc"));
+       // bitwiseOperator();
+        System.out.println(isUniqueChars2("abc"));
     }
 
     public static void bitwiseOperator(){

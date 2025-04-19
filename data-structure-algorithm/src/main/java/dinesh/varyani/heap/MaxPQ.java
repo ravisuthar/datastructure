@@ -90,10 +90,10 @@ public class MaxPQ {
         System.out.println(pq.getSize());
         System.out.println(pq.isEmpty());
 
-        pq.insert(4);
-        pq.insert(5);
-        pq.insert(6);
-        pq.insert(2);
+        pq.insert(4); //4 1
+        pq.insert(5); //4 2
+        pq.insert(6); //4 3
+        pq.insert(2); //4  4
         pq.insert(3);
 
         pq.print();

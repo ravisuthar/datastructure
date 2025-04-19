@@ -2,7 +2,7 @@ package dinesh.varyani.stack;
 
 //using linked list
 public class Stack<T> {
-    private ListNode top;
+    private ListNode<T> top;
     private int length;
 
     public Stack() {
@@ -21,7 +21,7 @@ public class Stack<T> {
     }
 
     public void push(T data) {
-        ListNode<T> newNode = new ListNode<T>(data);
+        ListNode<T> newNode = new ListNode<>(data);
         newNode.next = this.top;
         this.top = newNode;
         this.length++;
@@ -62,7 +62,7 @@ public class Stack<T> {
 
     public static void main(String[] args) {
 
-        Stack stack = new Stack();
+        Stack<Integer> stack = new Stack<>();
         System.out.println(stack.isEmpty());
         stack.push(1);
         stack.push(2);

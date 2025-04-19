@@ -2,6 +2,7 @@ package dinesh.varyani.array;
 
 import java.util.Arrays;
 
+//Must See
 //good logic
 //two pointer logic
 //increase left pointer only non zero value
@@ -14,7 +15,27 @@ public class MoveAllZeroEndOfArray {
         int left=0;
         int right=1;
 
-        while(right<arr.length){
+
+        //      8,1,1,2,1,3,0,0
+        // left           _
+        //right               _
+        while(right < arr.length){
+
+            if(arr[left] ==0 && arr[right] != 0){
+                int temp = arr[left];
+                arr[left] = arr[right];
+                arr[left]= temp;
+            }
+
+            if(arr[left] != 0){
+                left++;
+            }
+
+            right++;
+        }
+
+
+       /* while(right<arr.length){
 
             if(arr[left]==0 && arr[right]!=0){
                 int temp =arr[left];
@@ -26,7 +47,7 @@ public class MoveAllZeroEndOfArray {
                 left++;
             }
             right++;
-        }
+        }*/
 
 
         //double for loop does not work

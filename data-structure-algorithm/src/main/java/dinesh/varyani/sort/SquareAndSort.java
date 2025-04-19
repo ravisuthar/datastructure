@@ -10,7 +10,22 @@ public class SquareAndSort {
     //0 1 9 16 100
     private static int[] squareAndSort(int[] arr) {
 
-        int left = 0;
+    /*    int left =0;
+        int right =arr.length-1;
+        int[] result = new int[arr.length];
+        for (int i = arr.length-1; i >=0 ; i--) {
+            if(Math.abs(arr[left]) > Math.abs(arr[[right])){
+                result[i] =  arr[left] * arr[left];
+                left++;
+            }else{
+                result[i] =  arr[right] * arr[right];
+                right--;
+            }
+        }
+
+
+        return result;*/
+       int left = 0;
         int right = arr.length - 1;
         int[] result = new int[arr.length]; //new array is required to store result
 

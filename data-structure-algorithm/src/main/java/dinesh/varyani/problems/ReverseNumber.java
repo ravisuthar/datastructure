@@ -13,14 +13,14 @@ public class ReverseNumber {
             num = Math.abs(num);
         }
 
-        long reverseNumber = 0;
+        long reverseNumber = 0; //use long to support large number
         while (num > 0) {
             int reminder = num % 10;
             reverseNumber = reverseNumber * 10 + reminder;
             num = num / 10;
         }
 
-        return isNegative ? -1 *reverseNumber : reverseNumber;
+        return isNegative ? -1 * reverseNumber : reverseNumber;
     }
 
     //negative number?

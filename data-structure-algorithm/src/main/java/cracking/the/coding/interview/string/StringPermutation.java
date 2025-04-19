@@ -34,8 +34,11 @@ public class StringPermutation {
 
         int[] result = new int[256];
         for (int i = 0; i < a.length(); i++) {
-            result[a.charAt(i)-'a']++;
-            result[b.charAt(i)-'a']--;
+            //result[a.charAt(i)-'a']++;
+           // result[b.charAt(i)-'a']--;
+
+             result[a.charAt(i)]++;
+             result[b.charAt(i)]--;
         }
 
         for (int i = 0; i < result.length; i++) {
@@ -46,6 +49,12 @@ public class StringPermutation {
     }
 
     public static void main(String[] args) {
+
+        char a ='a';
+
+        System.out.println((int)a); // asci representation of char a
+
+
         System.out.println(identicalCharacters("abcd","hcba"));
         System.out.println(identicalCharacters("hcba","dabc"));
 

@@ -20,6 +20,12 @@ public class SubString {
         String s1s1 = s1 + s1;
         String s2s2 = s2 + s2;
 
+        System.out.println("s1="+s1);
+        System.out.println("s2="+s2);
+        System.out.println("s1s1="+s1s1);
+        System.out.println("s2s2="+s2s2);
+
+
         System.out.println(s1s1.contains(s2));
         System.out.println(s2s2.contains(s1));
     }

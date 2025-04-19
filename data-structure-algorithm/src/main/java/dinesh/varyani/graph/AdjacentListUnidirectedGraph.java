@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.Stack;
 
 public class AdjacentListUnidirectedGraph {
-    private LinkedList<Integer>[] adjacentList;
+    private LinkedList<Integer>[] adjacentList;   //array of LinkedList
 
     public AdjacentListUnidirectedGraph(int nodes) {
         this.adjacentList = new LinkedList[nodes];
@@ -23,7 +23,7 @@ public class AdjacentListUnidirectedGraph {
         //System.out.println(Arrays.deepToString(this.adjacentList));
         for (int i = 0; i < this.adjacentList.length; i++) {
             LinkedList<Integer> nodes = this.adjacentList[i];
-            System.out.print(nodes);
+            System.out.print(i +" => "+nodes+" \n");
         }
     }
 
@@ -74,9 +74,11 @@ public class AdjacentListUnidirectedGraph {
         graph.add(3, 0);
 
         graph.print();
+        System.out.println();
 
         System.out.println("breadthFirstSearch");
         graph.breadthFirstSearch(0);
+        System.out.println();
 
         System.out.println("depthFirstSearch");
         graph.depthFirstSearch(0);

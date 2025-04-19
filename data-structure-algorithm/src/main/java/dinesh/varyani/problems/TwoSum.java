@@ -47,6 +47,6 @@ public class TwoSum {
     }
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(twoSumUsingTwoPointers(new int[]{2,11,5,10,7,8}, 9)));
+        System.out.println(Arrays.toString(twoSum(new int[]{2,11,5,10,7,8}, 9)));
     }
 }

@@ -16,5 +16,22 @@ public class ArrayTest {
         int[] ii = new int[Integer.MAX_VALUE];
         //long[] ll = new long[Long.MAX_VALUE]; not allowed
         long[] ll = new long[Integer.MAX_VALUE]; //allowed
+
+
+        int[] numbers = new int[]{1, 2, 3, 4, 5};
+
+        //two dim
+        int[][] matrix = new int[2][];//second is optional
+        int[][] d2 = new int[][]{{1, 2, 3}, {1, 23}, {2}};//second is optional
+
+
+        int[] myArray = new int[5];
+        myArray[0] = 1;
+        myArray[1] = 1;
+        myArray[3] = 1;
+        myArray[4] = 1;
+        //myArray[5] = 1; // index out of bound. index is n-1
+
+
     }
 }

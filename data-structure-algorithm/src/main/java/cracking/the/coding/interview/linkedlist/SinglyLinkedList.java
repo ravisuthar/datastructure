@@ -1,6 +1,7 @@
 package cracking.the.coding.interview.linkedlist;
 
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 
 public class SinglyLinkedList {
@@ -41,10 +42,10 @@ public class SinglyLinkedList {
     public void print() {
         ListNode temp = this.head;
         while (null != temp) {
-            System.out.println(temp.data);
+            System.out.print(temp.data + " => ");
             temp = temp.next;
         }
-        System.out.println("null");
+        System.out.print("null\n");
     }
 
     private static class ListNode {
@@ -73,6 +74,23 @@ public class SinglyLinkedList {
             }
 
             current = current.next;//2
+        }
+    }
+
+    private void removeDuplicate2() {
+
+        ListNode current = this.head;
+        ListNode previous =null;
+        Set<Integer> set = new HashSet<>();
+
+        while (null != current) {
+            if (set.contains(current.data)) {
+                previous.next = current.next;
+            } else {
+                set.add(current.data);
+                previous = current;
+            }
+            current = current.next;
         }
     }
 
@@ -114,6 +132,28 @@ public class SinglyLinkedList {
         }
     }
 
+    public void removeDuplicateMy(){
+        ListNode current = this.head;
+
+        while(null!=current){
+
+            ListNode runner = current;
+            while(null!=runner.next){
+
+                if(runner.next.data == current.data){
+                    runner.next = runner.next.next;
+                }else{
+                    runner = runner.next;
+                }
+
+            }
+
+
+            current  =  current.next;
+        }
+    }
+
+
     //https://github.com/careercup/ctci/blob/master/java/Chapter%202/Question2_1/Question.java
     public void deleteDupsC() {
         if (head == null) return;
@@ -152,10 +192,15 @@ public class SinglyLinkedList {
         SinglyLinkedList list = new SinglyLinkedList();
         list.add(1);
         list.add(2);
-        list.add(1);
+        list.add(3);
+        list.add(4);
+        list.add(5);
+        list.add(6);
         list.add(2);
 
-        list.removeDuplicateWithoutUsingExtraSpace();
+        //list.removeDuplicateWithoutUsingExtraSpace();
+        list.print();
+        list.removeDuplicateMy();
         list.print();
 
         System.out.println(list.getLength());

@@ -29,10 +29,12 @@ public class ValidParenthesis {
 
         }
 
-        return true;
+        return stack.isEmpty();
     }
 
 
+
+    //(){
     private boolean hasValidParenthesis(String str) {
         char[] chars = str.toCharArray();
         Stack<Character> stack = new Stack<>();
@@ -59,11 +61,18 @@ public class ValidParenthesis {
             }
         }
 
-        return true;
+        return stack.isEmpty();
     }
 
     public static void main(String[] args) {
 
         System.out.println(new ValidParenthesis().hasValidParenthesis("(){"));
+        System.out.println(new ValidParenthesis().isValid("(){"));
+
+
+       // System.out.println(new ValidParenthesis().hasValidParenthesis("(){}{}[]"));
+      //  System.out.println(new ValidParenthesis().isValid("(){}{}[]"));
+
+
     }
 }

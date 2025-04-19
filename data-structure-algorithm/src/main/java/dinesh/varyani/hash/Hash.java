@@ -45,7 +45,7 @@ public class Hash<K, V> {
         head = buckets[bucketIndex];
         HashNode<K, V> newNode = new HashNode<>(key, value);
         newNode.next = head;
-        buckets[bucketIndex] = newNode;
+        buckets[bucketIndex] = newNode; //New node will be added first to the linked list.
         this.size++;
     }
 

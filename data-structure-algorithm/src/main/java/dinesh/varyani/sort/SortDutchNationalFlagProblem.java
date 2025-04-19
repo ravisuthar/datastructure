@@ -8,12 +8,14 @@ public class SortDutchNationalFlagProblem {
 
     private static int[] sort(int[] arr) {
 
-        int i = 0;
-        int j = 0;
-        int k = arr.length - 1;
 
-        while (i <= k) {
 
+
+        int i = 0;  //i is for 0 move left to right, if it found 0 it throws to j(j--) and 2 throws to k (k--) but keep i at same index.
+        int j = 0; // j keep on left side,
+        int k = arr.length - 1; // k from righ to left.
+
+        while (i <= k) { // equal condition.
             if (arr[i] == 0) {
                 swap(arr, i, j);
                 j++;

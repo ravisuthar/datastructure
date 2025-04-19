@@ -18,7 +18,7 @@ public class ThreeSum {
     //use three sum
     private static void threeSum(int[] arr, int target) {
         if (arr.length < 3) throw new IllegalArgumentException("less arg");
-        Arrays.sort(arr);
+        Arrays.sort(arr);// sort the array is important.
 
 
         //i to iterate till arr.length - 2

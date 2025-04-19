@@ -10,6 +10,7 @@ public class BubbleSort {
     public static void main(String[] args) {
 
         System.out.println(Arrays.toString(new BubbleSort().bubbleSort(new int[]{5, 1, 4, 2, 8})));
+        System.out.println(Arrays.toString(new BubbleSort().sort(new int[]{5, 1, 4, 2, 8})));
     }
 
     int[] bubbleSort(int[] nums){
@@ -26,7 +27,7 @@ public class BubbleSort {
     }
 
 
-    public void sort(int[] arr) {
+    public int[]  sort(int[] arr) {
         int n = arr.length;
         boolean isSwapped; //flag based
 
@@ -40,11 +41,11 @@ public class BubbleSort {
                     isSwapped = true;
                 }
             }
-            if(isSwapped == false) { //Warning:(43, 16) 'isSwapped == false' can be simplified to '!isSwapped'
+            if(!isSwapped) { //Warning:(43, 16) 'isSwapped == false' can be simplified to '!isSwapped'
                 break;
             }
 
         }
-
+    return arr;
     }
 }

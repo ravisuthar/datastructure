@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Stackk {
     int[] storage;
-    int top;
+    int top;  //used to maintain index position.
 
     public Stackk(int size) {
         this.storage = new int[size];

@@ -25,7 +25,7 @@ public class FirstNonRepeatingCharacter {
 
         for (int i = 0; i < s.length(); i++) {
             if (map.get(s.charAt(i)) == 1) {
-                return i;
+                return i; //returning index of first non repeating character.
             }
         }
 

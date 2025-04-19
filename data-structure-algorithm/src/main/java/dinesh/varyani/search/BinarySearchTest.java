@@ -104,12 +104,12 @@ public class BinarySearchTest {
 
     private static int simpleBinarySearch(int[] arr, int target) {
 
-        //1.5.10 6   5<6
+      /*  //1.5.10 6   5<6
         int start = 0;
         int last = arr.length - 1;
         while (start <= last) {
 
-            int midIndex = start + (last - start) / 2;
+            int midIndex = start + (last - start) / 2;// this is important
             if (arr[midIndex] == target) {
                 return midIndex;
             } else if (arr[midIndex] < target) {
@@ -119,6 +119,24 @@ public class BinarySearchTest {
             }
 
         }
+
+        return -1;*/
+        int start =0;
+        int last = arr.length -1;
+
+        while(start < last){
+            int mid = start  + (last -start) / 2;
+            if(arr[mid] == target){
+                return mid;
+            }
+
+            else if (arr[mid] < target){
+                last = mid - 1;
+            }else{
+                start = mid + 1; // +1
+            }
+        }
+
 
         return -1;
     }
