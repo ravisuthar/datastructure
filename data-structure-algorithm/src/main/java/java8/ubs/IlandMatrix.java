@@ -55,7 +55,7 @@ public class IlandMatrix {
                 {0, 0}
         };
 
-        int numIslands = countIslands(matrix2);
+        int numIslands = countIslands(matrix);
         System.out.println("Number of islands: " + numIslands);
     }
 }
