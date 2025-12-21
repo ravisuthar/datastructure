@@ -2,7 +2,7 @@ package designpattern.pattern.creational.singleton;
 
 public class ThreadSafeSingleton2 {
 
-	private static ThreadSafeSingleton2 INSTANCE;
+	private volatile static ThreadSafeSingleton2 INSTANCE;
 
 	private ThreadSafeSingleton2() {
 		super();

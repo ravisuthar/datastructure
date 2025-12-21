@@ -69,6 +69,7 @@ public class SortByNameThanSalary {
       /*  list.stream().sorted(Comparator.comparing(E::getSalary).reversed())
                 .limit(3).forEach(System.out::println);*/
 
+
         list.stream().sorted((a, b) -> {
                     if (a.getSalary().equals(b.getSalary())) {
                         return a.getName().compareTo(b.getName());

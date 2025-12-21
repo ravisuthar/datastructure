@@ -4,6 +4,7 @@ public class ArrayTest {
     public static void main(String[] args) {
 
 
+
         int[] i = {1, 2, 3, 4};
         long[] l = new long[1];
         byte[] b = new byte[2];

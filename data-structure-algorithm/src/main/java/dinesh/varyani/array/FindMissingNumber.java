@@ -9,9 +9,11 @@ public class FindMissingNumber {
 
         int size = arr.length + 1;
         int sum = size * (size + 1) / 2;
+        //sum=n*(n+1)/2
         /*for (int i = 0; i < arr.length; i++) {
             sum-=arr[i];
         }*/
+
 
         //use forloop where index is not required
         for (int num : arr) {

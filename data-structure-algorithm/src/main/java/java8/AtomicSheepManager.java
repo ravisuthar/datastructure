@@ -13,8 +13,8 @@ public class AtomicSheepManager {
 
     public static void main(String[] args) {
         ExecutorService service = Executors.newFixedThreadPool(20);
+        AtomicSheepManager manager = new AtomicSheepManager();
         try {
-            AtomicSheepManager manager = new AtomicSheepManager();
             for (int i = 0; i < 10; i++)
                 service.submit(() -> manager.incrementAndReport());
         } finally {

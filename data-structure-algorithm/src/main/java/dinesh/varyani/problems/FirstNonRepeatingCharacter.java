@@ -32,9 +32,24 @@ public class FirstNonRepeatingCharacter {
         return -1;
     }
 
+    private static Character non(String str){
+        Map<Character, Integer> map = new HashMap<>();
+        for (int i = 0; i < str.length(); i++) {
+            map.put(str.charAt(i), map.getOrDefault(str.charAt(i), 0)+1);
+        }
+
+        for (int i = 0; i < str.length(); i++) {
+            if(map.get(str.charAt(i)) == 1){
+               return str.charAt(i);
+            }
+        }
+
+        return null;
+    }
+
 
     public static void main(String[] args) {
-        System.out.println(nonRepeatingChar("codeforcode"));
-        System.out.println(nonRepeatingChar("aabb"));
+        System.out.println(non("codeforcode"));
+        System.out.println(non("aabb"));
     }
 }

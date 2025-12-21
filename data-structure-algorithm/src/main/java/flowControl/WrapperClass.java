@@ -31,8 +31,6 @@ public class WrapperClass {
         BigDecimal quotient = bd1.divide(bd2);
         BigDecimal product = bd1.multiply(bd2);
 
-
-
     }
 }
 

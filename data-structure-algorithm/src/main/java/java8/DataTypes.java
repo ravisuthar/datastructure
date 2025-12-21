@@ -1,5 +1,6 @@
 package java8;
 
+import javax.sound.midi.spi.SoundbankReader;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
@@ -8,17 +9,19 @@ import java.util.function.Supplier;
 public class DataTypes {
     public static void main(String[] args) {
 
-        System.out.println(fun.apply("Ravi"));
-
+        System.out.println(myFunction.apply("Ravi"));
+        System.out.println(myPre.test("Sarayu"));
+        System.out.println(stringSupplier.get());
+        myConsumer.accept("Hellow");
     }
 
-    Function<String, String> myFunction= String::toLowerCase;
+    static Function<String, String> myFunction= String::toLowerCase;
 
-    Predicate<String> myPre= s-> s.contains("S");
+    static Predicate<String> myPre= s-> s.contains("S");
 
-    Consumer<String> myConsumer = System.out::println;
+    static Consumer<String> myConsumer = System.out::println;
 
-    Supplier<String> stringSupplier = () -> "Hello World";
+    static  Supplier<String> stringSupplier = () -> "Hello World";
 
     static Function<String, String> fun = s -> s.toLowerCase();
 

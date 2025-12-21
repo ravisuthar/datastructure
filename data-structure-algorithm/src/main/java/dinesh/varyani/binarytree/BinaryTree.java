@@ -190,6 +190,21 @@ public class BinaryTree {
         }
     }
 
+    //   1
+    // 2    3
+    //4 5  6 7
+    public void level(){
+        if(this.root ==null) return;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(this.root);
+        while(!q.isEmpty()){
+            TreeNode poll = q.poll();
+            System.out.println(poll.data);
+            if(null!=poll.left) q.add(poll.left);
+            if(null!=poll.right) q.add(poll.right);
+        }
+    }
+
     public int findMax(TreeNode node){
         if(node==null) return 0;
         int result = node.data;
